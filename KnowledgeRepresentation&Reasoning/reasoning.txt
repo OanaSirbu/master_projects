@@ -1,0 +1,8 @@
+[[n(goesToLapland(X)), believesInMagic(X)], [n(believesInMagic(X)), receivesPresents(X)], [memberOfCommunity(andrew, giveHope)], [n(memberOfCommunity(X, giveHope)), goesToLapland(X)], [n(receivesPresents(andrew))]]
+[[n(a),b],[c,d],[n(d),b],[n(b)],[n(c),b],[e],[a,b,n(f),f]]
+[[n(b),a],[n(a),b,e],[a, n(e)],[n(a)],[e]]
+[[n(a),b],[c,f],[n(c)],[n(f),b],[n(c),b]]
+[[a,b],[n(a),n(b)],[c]]
+[[n(plus(succ(succ(zero)),succ(succ(succ(zero))),U))],[n(plus(X,Y,Z)),plus(succ(X),Y,succ(Z))],[plus(zero,X,X)]].
+[[n(hound(X)),howl(X)],[n(have(X,Y)),n(cat(Y)),n(have(X,Z)),n(mouse(Z))],[n(ls(X)),n(have(X,Y)),n(howl(Y))],[have(john,a)],[cat(a),hound(a)],[ls(john)],[have(john,b)],[mouse(b)]].
+[[n(green(c))],[on(b,c)],[n(on(X,Y)),n(green(X)),green(Y)],[on(a,b)],[green(a)]]. 
