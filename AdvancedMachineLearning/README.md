@@ -1,18 +1,18 @@
 # AML - Solution for Assignment 1
 
-This assignment contains solutions and explanations for various exercises related to hypothesis classes and PAC learning.
+This paper contains solutions and explanations for various exercises related to hypothesis classes and PAC learning.
 
 ## Exercise 1
 
-### a) Finite hypothesis class with specified VC dimension
+** a) Finite hypothesis class with specified VC dimension **
 
-### b) Infinite hypothesis class with specified VC dimension
+** b) Infinite hypothesis class with specified VC dimension **
 
 ## Exercise 2
 
-**PAC Learnability of Hₐ**
+### PAC Learnability of Hₐ ###
 
-### Statement and Algorithm
+## Statement and Algorithm
 
 Given X = ℝ² and Hₐ as the set of concepts defined by right triangles with catheti parallel to the axes and ratio AB/AC = α, we show that Hₐ is (ε, δ)-PAC learnable.
 
