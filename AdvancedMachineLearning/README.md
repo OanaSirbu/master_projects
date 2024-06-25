@@ -12,8 +12,6 @@ This paper contains solutions and explanations for various exercises related to 
 
 ### PAC Learnability of Hₐ ###
 
-## Statement and Algorithm
-
 Given X = ℝ² and Hₐ as the set of concepts defined by right triangles with catheti parallel to the axes and ratio AB/AC = α, we show that Hₐ is (ε, δ)-PAC learnable.
 
 **Algorithm:**
