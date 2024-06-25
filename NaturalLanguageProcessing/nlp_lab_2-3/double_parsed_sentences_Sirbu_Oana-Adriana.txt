@@ -1,0 +1,76 @@
+Sentence - number [1]
+Quantum theory explains particle interactions accurately.
+Constituency parsing: 
+(ROOT
+  (S
+    (NP (NNP Quantum) (NN theory))
+    (VP
+      (VBZ explains)
+      (NP (NN particle) (NNS interactions))
+      (ADVP (RB accurately)))
+    (. .))) 
+Dependency parsing: 
+[(('explains', 'VBZ'), 'nsubj', ('theory', 'NN')), (('theory', 'NN'), 'compound', ('Quantum', 'NNP')), (('explains', 'VBZ'), 'obj', ('interactions', 'NNS')), (('interactions', 'NNS'), 'compound', ('particle', 'NN')), (('explains', 'VBZ'), 'advmod', ('accurately', 'RB'))] 
+-----------------------------------
+Sentence - number [2]
+Black holes influence surrounding celestial bodies significantly.
+Constituency parsing: 
+(ROOT
+  (S
+    (NP (JJ Black) (NNS holes))
+    (VP
+      (VBP influence)
+      (S
+        (VP
+          (VBG surrounding)
+          (NP (JJ celestial) (NNS bodies))
+          (ADVP (RB significantly)))))
+    (. .))) 
+Dependency parsing: 
+[(('influence', 'VBP'), 'nsubj', ('holes', 'NNS')), (('holes', 'NNS'), 'amod', ('Black', 'JJ')), (('influence', 'VBP'), 'xcomp', ('surrounding', 'VBG')), (('surrounding', 'VBG'), 'obj', ('bodies', 'NNS')), (('bodies', 'NNS'), 'amod', ('celestial', 'JJ')), (('surrounding', 'VBG'), 'advmod', ('significantly', 'RB'))] 
+-----------------------------------
+Sentence - number [3]
+Dark energy propels the accelerating expansion of the universe.
+Constituency parsing: 
+(ROOT
+  (S
+    (NP (JJ Dark) (NN energy))
+    (VP
+      (VBZ propels)
+      (NP
+        (NP (DT the) (VBG accelerating) (NN expansion))
+        (PP (IN of) (NP (DT the) (NN universe)))))
+    (. .))) 
+Dependency parsing: 
+[(('propels', 'VBZ'), 'nsubj', ('energy', 'NN')), (('energy', 'NN'), 'amod', ('Dark', 'JJ')), (('propels', 'VBZ'), 'obj', ('expansion', 'NN')), (('expansion', 'NN'), 'det', ('the', 'DT')), (('expansion', 'NN'), 'amod', ('accelerating', 'VBG')), (('expansion', 'NN'), 'nmod', ('universe', 'NN')), (('universe', 'NN'), 'case', ('of', 'IN')), (('universe', 'NN'), 'det', ('the', 'DT'))] 
+-----------------------------------
+Sentence - number [4]
+Neutron stars exhibit incredibly dense core structures.
+Constituency parsing: 
+(ROOT
+  (S
+    (NP (NNP Neutron) (NNS stars))
+    (VP
+      (VBP exhibit)
+      (NP
+        (ADJP (RB incredibly) (JJ dense))
+        (NN core)
+        (NNS structures)))
+    (. .))) 
+Dependency parsing: 
+[(('exhibit', 'VBP'), 'nsubj', ('stars', 'NNS')), (('stars', 'NNS'), 'compound', ('Neutron', 'NNP')), (('exhibit', 'VBP'), 'obj', ('structures', 'NNS')), (('structures', 'NNS'), 'amod', ('dense', 'JJ')), (('dense', 'JJ'), 'advmod', ('incredibly', 'RB')), (('structures', 'NNS'), 'compound', ('core', 'NN'))] 
+-----------------------------------
+Sentence - number [5]
+Gravitational waves confirm the theory of Einstein effectively.
+Constituency parsing: 
+(ROOT
+  (S
+    (NP (JJ Gravitational) (NNS waves))
+    (VP
+      (VBP confirm)
+      (NP (NP (DT the) (NN theory)) (PP (IN of) (NP (NNP Einstein))))
+      (ADVP (RB effectively)))
+    (. .))) 
+Dependency parsing: 
+[(('confirm', 'VBP'), 'nsubj', ('waves', 'NNS')), (('waves', 'NNS'), 'amod', ('Gravitational', 'JJ')), (('confirm', 'VBP'), 'obj', ('theory', 'NN')), (('theory', 'NN'), 'det', ('the', 'DT')), (('theory', 'NN'), 'nmod', ('Einstein', 'NNP')), (('Einstein', 'NNP'), 'case', ('of', 'IN')), (('confirm', 'VBP'), 'advmod', ('effectively', 'RB'))] 
+-----------------------------------

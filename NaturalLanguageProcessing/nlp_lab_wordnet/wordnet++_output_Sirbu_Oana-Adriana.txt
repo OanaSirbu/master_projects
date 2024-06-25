@@ -1,0 +1,344 @@
+Word: planet
+  Synset: planet.n.01
+    Definition: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction
+    Wikipedia URL: https://en.wikipedia.org/wiki/planet
+
+  Synset: satellite.n.02
+    Definition: a person who follows or serves another
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+  Synset: planet.n.03
+    Definition: any celestial body (other than comets or satellites) that revolves around a star
+    Wikipedia URL: https://en.wikipedia.org/wiki/planet
+
+Word: galaxy
+  Synset: galaxy.n.01
+    Definition: a splendid assemblage (especially of famous people)
+    Wikipedia URL: https://en.wikipedia.org/wiki/galaxy
+
+  Synset: galax.n.01
+    Definition: tufted evergreen perennial herb having spikes of tiny white flowers and glossy green round to heart-shaped leaves that become coppery to maroon or purplish in fall
+    Wikipedia URL: https://en.wikipedia.org/wiki/galax
+
+  Synset: galaxy.n.03
+    Definition: (astronomy) a collection of star systems; any of the billions of systems each having many stars and nebulae and dust
+    Wikipedia URL: https://en.wikipedia.org/wiki/galaxy
+
+Word: comet
+  Synset: comet.n.01
+    Definition: (astronomy) a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a highly elliptical orbit
+    Wikipedia URL: https://en.wikipedia.org/wiki/comet
+
+Word: asteroid
+  Synset: asteroid.n.01
+    Definition: any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)
+    Wikipedia URL: https://en.wikipedia.org/wiki/asteroid
+
+  Synset: asteroid.s.01
+    Definition: shaped like a star
+    Wikipedia URL: https://en.wikipedia.org/wiki/asteroid
+
+Word: supernova
+  Synset: supernova.n.01
+    Definition: a star that explodes and becomes extremely luminous in the process
+    Wikipedia URL: https://en.wikipedia.org/wiki/supernova
+
+Word: nebula
+  Synset: nebula.n.01
+    Definition: a medicinal liquid preparation intended for use in an atomizer
+    Wikipedia URL: https://en.wikipedia.org/wiki/nebula
+
+  Synset: nebula.n.02
+    Definition: cloudiness of the urine
+    Wikipedia URL: https://en.wikipedia.org/wiki/nebula
+
+  Synset: nebula.n.03
+    Definition: an immense cloud of gas (mainly hydrogen) and dust in interstellar space
+    Wikipedia URL: https://en.wikipedia.org/wiki/nebula
+
+  Synset: nebula.n.04
+    Definition: (pathology) a faint cloudy spot on the cornea
+    Wikipedia URL: https://en.wikipedia.org/wiki/nebula
+
+Word: telescope
+  Synset: telescope.n.01
+    Definition: a magnifier of images of distant objects
+    Wikipedia URL: https://en.wikipedia.org/wiki/telescope
+
+  Synset: telescope.v.01
+    Definition: crush together or collapse
+    Wikipedia URL: https://en.wikipedia.org/wiki/telescope
+
+  Synset: telescope.v.02
+    Definition: make smaller or shorter
+    Wikipedia URL: https://en.wikipedia.org/wiki/telescope
+
+Word: satellite
+  Synset: satellite.n.01
+    Definition: man-made equipment that orbits around the earth or the moon
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+  Synset: satellite.n.02
+    Definition: a person who follows or serves another
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+  Synset: satellite.n.03
+    Definition: any celestial body orbiting around a planet or star
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+  Synset: satellite.v.01
+    Definition: broadcast or disseminate via satellite
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+  Synset: satellite.s.01
+    Definition: surrounding and dominated by a central authority or power
+    Wikipedia URL: https://en.wikipedia.org/wiki/satellite
+
+Word: constellation
+  Synset: configuration.n.01
+    Definition: an arrangement of parts or elements
+    Wikipedia URL: https://en.wikipedia.org/wiki/Configure
+
+  Synset: constellation.n.02
+    Definition: a configuration of stars as seen from the earth
+    Wikipedia URL: https://en.wikipedia.org/wiki/constellation
+
+Word: meteor
+  Synset: meteoroid.n.01
+    Definition: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere
+    Wikipedia URL: https://en.wikipedia.org/wiki/meteoroid
+
+  Synset: meteor.n.02
+    Definition: a streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or explode
+    Wikipedia URL: https://en.wikipedia.org/wiki/meteor
+
+Word: universe
+  Synset: universe.n.01
+    Definition: everything that exists anywhere
+    Wikipedia URL: https://en.wikipedia.org/wiki/universe
+
+  Synset: population.n.03
+    Definition: (statistics) the entire aggregation of items from which samples can be drawn
+    Wikipedia URL: https://en.wikipedia.org/wiki/population
+
+  Synset: universe.n.03
+    Definition: everything stated or assumed in a given discussion
+    Wikipedia URL: https://en.wikipedia.org/wiki/universe
+
+Word: black hole
+Word: quasar
+  Synset: quasar.n.01
+    Definition: a starlike object that may send out radio waves and other forms of energy; many have large red shifts
+    Wikipedia URL: https://en.wikipedia.org/wiki/quasar
+
+Word: cosmos
+  Synset: universe.n.01
+    Definition: everything that exists anywhere
+    Wikipedia URL: https://en.wikipedia.org/wiki/universe
+
+  Synset: cosmos.n.02
+    Definition: any of various mostly Mexican herbs of the genus Cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals
+    Wikipedia URL: https://en.wikipedia.org/wiki/cosmos
+
+Word: gravity
+  Synset: gravity.n.01
+    Definition: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --Albert Einstein
+    Wikipedia URL: https://en.wikipedia.org/wiki/gravity
+
+  Synset: graveness.n.01
+    Definition: a manner that is serious and solemn
+    Wikipedia URL: https://en.wikipedia.org/wiki/graveness
+
+  Synset: gravity.n.03
+    Definition: a solemn and dignified feeling
+    Wikipedia URL: https://en.wikipedia.org/wiki/gravity
+
+Word: light year
+Word: orbit
+  Synset: orbit.n.01
+    Definition: the (usually elliptical) path described by one celestial body in its revolution about another
+    Wikipedia URL: https://en.wikipedia.org/wiki/orbit
+
+  Synset: sphere.n.01
+    Definition: a particular environment or walk of life
+    Wikipedia URL: https://en.wikipedia.org/wiki/sphere
+
+  Synset: scope.n.01
+    Definition: an area in which something acts or operates or has power or control:
+    Wikipedia URL: https://en.wikipedia.org/wiki/SCOPE
+
+  Synset: orbit.n.04
+    Definition: the path of an electron around the nucleus of an atom
+    Wikipedia URL: https://en.wikipedia.org/wiki/orbit
+
+  Synset: eye_socket.n.01
+    Definition: the bony cavity in the skull containing the eyeball
+    Wikipedia URL: https://en.wikipedia.org/wiki/eye_socket
+
+  Synset: orb.v.01
+    Definition: move in an orbit
+    Wikipedia URL: https://en.wikipedia.org/wiki/ORB
+
+Word: astronaut
+  Synset: astronaut.n.01
+    Definition: a person trained to travel in a spacecraft
+    Wikipedia URL: https://en.wikipedia.org/wiki/astronaut
+
+Word: spacecraft
+  Synset: spacecraft.n.01
+    Definition: a craft capable of traveling in outer space; technically, a satellite around the sun
+    Wikipedia URL: https://en.wikipedia.org/wiki/spacecraft
+
+Word: observatory
+  Synset: observatory.n.01
+    Definition: a building designed and equipped to observe astronomical phenomena
+    Wikipedia URL: https://en.wikipedia.org/wiki/observatory
+
+  Synset: lookout.n.03
+    Definition: a structure commanding a wide view of its surroundings
+    Wikipedia URL: https://en.wikipedia.org/wiki/lookout
+
+Word: eclipse
+  Synset: eclipse.n.01
+    Definition: one celestial body obscures another
+    Wikipedia URL: https://en.wikipedia.org/wiki/eclipse
+
+  Synset: eclipse.v.02
+    Definition: cause an eclipse of (a celestial body) by intervention
+    Wikipedia URL: https://en.wikipedia.org/wiki/eclipse
+
+Word: pulsar
+  Synset: pulsar.n.01
+    Definition: a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation
+    Wikipedia URL: https://en.wikipedia.org/wiki/pulsar
+
+Word: solar system
+Word: moon
+  Synset: moon.n.01
+    Definition: the natural satellite of the Earth
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+  Synset: moon.n.02
+    Definition: any object resembling a moon
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+  Synset: lunar_month.n.01
+    Definition: the period between successive new moons (29.531 days)
+    Wikipedia URL: https://en.wikipedia.org/wiki/lunar_month
+
+  Synset: moonlight.n.01
+    Definition: the light of the Moon
+    Wikipedia URL: https://en.wikipedia.org/wiki/moonlight
+
+  Synset: moon.n.05
+    Definition: United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+  Synset: moon.n.06
+    Definition: any natural satellite of a planet
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+  Synset: daydream.v.02
+    Definition: have dreamlike musings or fantasies while awake
+    Wikipedia URL: https://en.wikipedia.org/wiki/daydream
+
+  Synset: moon.v.02
+    Definition: be idle in a listless or dreamy way
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+  Synset: moon.v.03
+    Definition: expose one's buttocks to
+    Wikipedia URL: https://en.wikipedia.org/wiki/moon
+
+Word: jupiter
+  Synset: jupiter.n.01
+    Definition: the largest planet and the 5th from the sun; has many satellites and is one of the brightest objects in the night sky
+    Wikipedia URL: https://en.wikipedia.org/wiki/jupiter
+
+  Synset: jupiter.n.02
+    Definition: (Roman mythology) supreme god of Romans; counterpart of Greek Zeus
+    Wikipedia URL: https://en.wikipedia.org/wiki/jupiter
+
+Word: mars
+  Synset: mars.n.01
+    Definition: a small reddish planet that is the 4th from the sun and is periodically visible to the naked eye; minerals rich in iron cover its surface and are responsible for its characteristic color
+    Wikipedia URL: https://en.wikipedia.org/wiki/mars
+
+  Synset: mars.n.02
+    Definition: (Roman mythology) Roman god of war and agriculture; father of Romulus and Remus; counterpart of Greek Ares
+    Wikipedia URL: https://en.wikipedia.org/wiki/mars
+
+  Synset: march.n.01
+    Definition: the month following February and preceding April
+    Wikipedia URL: https://en.wikipedia.org/wiki/march
+
+  Synset: blemish.n.01
+    Definition: a mark or flaw that spoils the appearance of something (especially on a person's body)
+    Wikipedia URL: https://en.wikipedia.org/wiki/Blemish_(disambiguation)
+
+  Synset: mar.v.01
+    Definition: make imperfect
+    Wikipedia URL: https://en.wikipedia.org/wiki/MAR_(disambiguation)
+
+  Synset: mutilate.v.03
+    Definition: destroy or injure severely
+    Wikipedia URL: https://en.wikipedia.org/wiki/mutilate
+
+Word: earth
+  Synset: earth.n.01
+    Definition: the 3rd planet from the sun; the planet we live on
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+  Synset: earth.n.02
+    Definition: the loose soft material that makes up a large part of the land surface
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+  Synset: land.n.04
+    Definition: the solid part of the earth's surface
+    Wikipedia URL: https://en.wikipedia.org/wiki/land
+
+  Synset: earth.n.04
+    Definition: the abode of mortals (as contrasted with Heaven or Hell)
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+  Synset: earth.n.05
+    Definition: once thought to be one of four elements composing the universe (Empedocles)
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+  Synset: ground.n.09
+    Definition: a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)
+    Wikipedia URL: https://en.wikipedia.org/wiki/Ground_(disambiguation)
+
+  Synset: earth.v.01
+    Definition: hide in the earth like a hunted animal
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+  Synset: earth.v.02
+    Definition: connect to the earth
+    Wikipedia URL: https://en.wikipedia.org/wiki/earth
+
+Word: exoplanet
+Word: cosmology
+  Synset: cosmology.n.01
+    Definition: the metaphysical study of the origin and nature of the universe
+    Wikipedia URL: https://en.wikipedia.org/wiki/cosmology
+
+  Synset: cosmology.n.02
+    Definition: the branch of astrophysics that studies the origin and evolution and structure of the universe
+    Wikipedia URL: https://en.wikipedia.org/wiki/cosmology
+
+Word: interstellar
+  Synset: interstellar.a.01
+    Definition: between or among stars
+    Wikipedia URL: https://en.wikipedia.org/wiki/Interstellar_(disambiguation)
+
+Word: astrobiology
+  Synset: exobiology.n.01
+    Definition: the branch of biology concerned with the effects of outer space on living organisms and the search for extraterrestrial life
+    Wikipedia URL: https://en.wikipedia.org/wiki/exobiology
+
+Word: astrophysics
+  Synset: astrophysics.n.01
+    Definition: the branch of astronomy concerned with the physical and chemical properties of celestial bodies
+    Wikipedia URL: https://en.wikipedia.org/wiki/astrophysics
+

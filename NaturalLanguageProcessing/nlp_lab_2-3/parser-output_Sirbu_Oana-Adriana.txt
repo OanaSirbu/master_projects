@@ -1,0 +1,15 @@
+The/DT researcher/NN studies/VBZ bright/JJ supernovas/NNS ./.
+
+(ROOT
+  (S
+    (NP (DT The) (NN researcher))
+    (VP (VBZ studies)
+      (NP (JJ bright) (NNS supernovas)))
+    (. .)))
+
+det(researcher-2, The-1)
+nsubj(studies-3, researcher-2)
+root(ROOT-0, studies-3)
+amod(supernovas-5, bright-4)
+obj(studies-3, supernovas-5)
+

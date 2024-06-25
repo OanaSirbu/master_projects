@@ -1,0 +1,4896 @@
+Word: cosmos
+  Synset: universe.n.01
+    Definition: everything that exists anywhere
+    Wikipedia URL: https://en.wikipedia.org/wiki/universe
+    Probability: 0.5
+    Similar Concepts from Wikipedia:
+      - Visit the main page [z]
+      - Heelal – Afrikaans
+      - Universum – Alemannic
+      - ጠፈር – Amharic
+      - فضاء كوني – Arabic
+      - Universo – Aragonese
+      - ܬܒܝܠ – Aramaic
+      - Տիեզերք – Western Armenian
+      - বিশ্বব্ৰহ্মাণ্ড – Assamese
+      - Universu – Asturian
+      - Arapy – Guarani
+      - Kainat – Azerbaijani
+      - ائورن – South Azerbaijani
+      - মহাবিশ্ব – Bangla
+      - Ú-tiū – Minnan
+      - Ғаләм – Bashkir
+      - Сусвет – Belarusian
+      - Сусьвет – Belarusian (Taraškievica orthography)
+      - ब्रह्मांड – Bhojpuri
+      - Uniberso – Central Bikol
+      - Вселена – Bulgarian
+      - Wödall – Bavarian
+      - འཇིག་རྟེན་ – Tibetan
+      - Svemir – Bosnian
+      - Hollved – Breton
+      - Оршолон – Russia Buriat
+      - Univers – Catalan
+      - Çут Тĕнче – Chuvash
+      - Uniberso – Cebuano
+      - Vesmír – Czech
+      - Denga neNyika – Shona
+      - Bydysawd (seryddiaeth) – Welsh
+      - Dunia – Dagbani
+      - Universet – Danish
+      - كون – Moroccan Arabic
+      - Universum – German
+      - Yágháhookáán – Navajo
+      - Uniwersum – Lower Sorbian
+      - Universum – Estonian
+      - Σύμπαν – Greek
+      - Universo – Spanish
+      - Universo – Esperanto
+      - Universu – Extremaduran
+      - Unibertsoa – Basque
+      - گیتی – Persian
+      - Sansaar – Fiji Hindi
+      - Alheimurin – Faroese
+      - Univers – French
+      - Hielal – Western Frisian
+      - Cruinne – Irish
+      - Domhan – Scottish Gaelic
+      - Universo – Galician
+      - Айлам – Ingush
+      - બ્રહ્માંડ – Gujarati
+      - Yî-chhiu – Hakka Chinese
+      - 우주 – Korean
+      - Տիեզերք – Armenian
+      - ब्रह्माण्ड – Hindi
+      - Svemir – Croatian
+      - Alam semesta – Gorontalo
+      - Universo – Ido
+      - Eluigwe na Ala – Igbo
+      - Law-ang – Iloko
+      - Alam semesta – Indonesian
+      - Universo – Interlingua
+      - Universe – Interlingue
+      - Ihlabathi – Xhosa
+      - UMkhathilibe – Zulu
+      - Alheimurinn – Icelandic
+      - Universo – Italian
+      - היקום – Hebrew
+      - Jagat – Javanese
+      - ಬ್ರಹ್ಮಾಂಡ – Kannada
+      - Sikluban – Pampanga
+      - Болум – Karachay-Balkar
+      - სამყარო – Georgian
+      - Wszechswiat – Kashubian
+      - Әлем – Kazakh
+      - Ollvys – Cornish
+      - Ulimwengu – Swahili
+      - Linivè – Haitian Creole
+      - Linivèr – Guianan Creole
+      - Gerdûn – Kurdish
+      - Аалам – Kyrgyz
+      - Univers – Ladin
+      - ເອກະພົບ – Lao
+      - Universum – Latin
+      - Visums – Latvian
+      - Universum – Luxembourgish
+      - Чилер-цавар – Lezghian
+      - Visata – Lithuanian
+      - Universo – Ligurian
+      - Universum – Limburgish
+      - Universo – Lingua Franca Nova
+      - Ünivers – Lombard
+      - Világegyetem – Hungarian
+      - Вселена – Macedonian
+      - പ്രപഞ്ചം – Malayalam
+      - विश्व – Marathi
+      - ოქიანუ – Mingrelian
+      - كون – Egyptian Arabic
+      - کهون – Mazanderani
+      - Alam semesta – Malay
+      - Ṳ̄-dêu – Mindong
+      - Ouniberso – Mirandese
+      - Орчлон – Mongolian
+      - စကြဝဠာ – Burmese
+      - Cemanahuatl – Nāhuatl
+      - Vuravura taucoko – Fijian
+      - Heelal – Dutch
+      - Hielal – Low Saxon
+      - ब्रह्माण्ड – Nepali
+      - 宇宙 – Japanese
+      - Annevierzo – Neapolitan
+      - Вселенни – Chechen
+      - Åål – Northern Frisian
+      - Universet – Norwegian Bokmål
+      - Universet – Norwegian Nynorsk
+      - Eunivers – Norman
+      - Universe – Novial
+      - Univèrs – Occitan
+      - Hawaa – Oromo
+      - Olam – Uzbek
+      - ਬ੍ਰਹਿਮੰਡ – Punjabi
+      - Weltall – Palatine German
+      - کائنات – Western Punjabi
+      - Universo – Papiamento
+      - کاينات – Pashto
+      - Yunivoers – Jamaican Creole English
+      - Univers – Piedmontese
+      - Wszechświat – Polish
+      - Universo – Portuguese
+      - Univers – Romanian
+      - Jegeya – Vlax Romani
+      - Ch'askancha – Quechua
+      - Весмір – Rusyn
+      - Вселенная – Russian
+      - ᱚᱣᱟᱝ – Santali
+      - Al – Saterland Frisian
+      - Gjithësia – Albanian
+      - Universu – Sicilian
+      - විශ්වය – Sinhala
+      - Universe – Simple English
+      - سرشٽي – Sindhi
+      - Vesmír – Slovak
+      - Vesolje – Slovenian
+      - Wszechświat – Silesian
+      - Koon – Somali
+      - گەردوون – Central Kurdish
+      - Свемир – Serbian
+      - Svemir – Serbo-Croatian
+      - Jagat – Sundanese
+      - Maailmankaikkeus – Finnish
+      - Universum – Swedish
+      - Sansinukob – Tagalog
+      - அண்டம் – Tamil
+      - Ameɣrad – Kabyle
+      - Галәм – Tatar
+      - విశ్వం – Telugu
+      - เอกภพ – Thai
+      - Олам – Tajik
+      - ᎦᎸᎶᎯ ᎦᎸᎾᏗ – Cherokee
+      - Evren – Turkish
+      - Amansan – Twi
+      - Югыт дунне – Udmurt
+      - Всесвіт – Ukrainian
+      - کائنات – Urdu
+      - Yijcou – Zhuang
+      - Mir – Veps
+      - Vũ trụ – Vietnamese
+      - Univiers – Walloon
+      - 宇宙 – Literary Chinese
+      - Sangkalibutan – Waray
+      - 宇宙 – Wu
+      - Matilo – Tsonga
+      - אוניווערס – Yiddish
+      - 宇宙 – Cantonese
+      - Kainat – Zazaki
+      - Vėsata – Samogitian
+      - 宇宙 – Chinese
+      - ⵉⵖⵣⵡⵔ – Standard Moroccan Tamazight
+      - View the content page [c]
+      - Discuss improvements to the content page [t]
+      - Universe (disambiguation)
+      - Hubble Ultra-Deep Field
+      - Galaxy
+      - Moon
+      - Age of the universe
+      - Lambda-CDM model
+      - Observable universe
+      - Parsec
+      - Light-year
+      - Energy
+      - Kelvin
+      - Celsius
+      - Fahrenheit
+      - Baryon
+      - Matter
+      - Dark matter
+      - Dark energy
+      - Shape of the universe
+      - Space
+      - Time
+      - Existence
+      - Fundamental interaction
+      - Physical process
+      - Physical constant
+      - Energy
+      - Matter
+      - Sub-atomic particles
+      - Galaxy filament
+      - Cosmology
+      - Big Bang
+      - Expansion of the universe
+      - Observable universe
+      - Light-year
+      - Timeline of cosmological theories
+      - Ancient Greek philosophy
+      - Indian philosophy
+      - Geocentric model
+      - Earth
+      - Nicolaus Copernicus
+      - Heliocentrism
+      - Sun
+      - Solar System
+      - Newton's law of universal gravitation
+      - Isaac Newton
+      - Johannes Kepler
+      - Kepler's laws of planetary motion
+      - Tycho Brahe
+      - Milky Way
+      - Exoplanet
+      - End of Greatness
+      - Galaxy cluster
+      - Supercluster
+      - Galaxy filament
+      - Void (astronomy)
+      - Inflationary epoch
+      - Fundamental interaction
+      - Subatomic particle
+      - Atom
+      - Hydrogen
+      - Helium
+      - Density
+      - Gravity
+      - Matter
+      - Dark matter
+      - Circumstantial evidence
+      - Foam
+      - Galaxy filament
+      - Void (astronomy)
+      - Lambda-CDM model
+      - Dark energy
+      - Accelerated expansion
+      - Expansion of the universe
+      - Baryon
+      - Ultimate fate of the universe
+      - Multiverse
+      - Physical cosmology
+      - Big Bang
+      - Age of the universe
+      - Chronology of the universe
+      - Inflation (cosmology)
+      - Big Bang nucleosynthesis
+      - Gravitational wave background
+      - Cosmic microwave background
+      - Cosmic neutrino background
+      - Hubble's law
+      - Redshift
+      - Expansion of the universe
+      - Friedmann–Lemaître–Robertson–Walker metric
+      - Friedmann equations
+      - Inhomogeneous cosmology
+      - Future of an expanding universe
+      - Ultimate fate of the universe
+      - Lambda-CDM model
+      - Dark energy
+      - Dark matter
+      - Shape of the universe
+      - Galaxy filament
+      - Galaxy formation and evolution
+      - Large quasar group
+      - Observable universe
+      - Reionization
+      - Structure formation
+      - Observational cosmology
+      - Black Hole Initiative
+      - BOOMERanG experiment
+      - Cosmic Background Explorer
+      - Dark Energy Survey
+      - Planck (spacecraft)
+      - Sloan Digital Sky Survey
+      - 2dF Galaxy Redshift Survey
+      - Wilkinson Microwave Anisotropy Probe
+      - Marc Aaronson
+      - Hannes Alfvén
+      - Ralph Asher Alpher
+      - Nicolaus Copernicus
+      - Willem de Sitter
+      - Robert H. Dicke
+      - Jürgen Ehlers
+      - Albert Einstein
+      - George F. R. Ellis
+      - Alexander Friedmann
+      - Galileo Galilei
+      - George Gamow
+      - Alan Guth
+      - Stephen Hawking
+      - Edwin Hubble
+      - Christiaan Huygens
+      - Johannes Kepler
+      - Georges Lemaître
+      - John C. Mather
+      - Isaac Newton
+      - Roger Penrose
+      - Arno Allan Penzias
+      - Vera Rubin
+      - Brian Schmidt
+      - George Smoot
+      - Nicholas B. Suntzeff
+      - Rashid Sunyaev
+      - Richard C. Tolman
+      - Robert Woodrow Wilson
+      - Yakov Zeldovich
+      - List of cosmologists
+      - Physical cosmology
+      - Discovery of cosmic microwave background radiation
+      - History of the Big Bang theory
+      - Timeline of cosmological theories
+      - Template talk:Physical cosmology
+      - Hubble Space Telescope
+      - Hubble Ultra-Deep Field
+      - Space
+      - Time
+      - Spacetime
+      - Electromagnetic radiation
+      - Matter
+      - Natural satellite
+      - Intergalactic space
+      - Physical law
+      - Conservation law
+      - Classical mechanics
+      - Theory of relativity
+      - Everything
+      - Old French
+      - Latin
+      - Cicero
+      - English language
+      - Pythagoras
+      - World (philosophy)
+      - Cosmos
+      - German language
+      - Theory of everything
+      - Cosmology
+      - Many-worlds interpretation
+      - Nature
+      - Natural law
+      - Natural philosophy
+      - Big Bang
+      - Chronology of the universe
+      - Chronology of the universe
+      - Template talk:Nature timeline
+      - Chronology of the universe
+      - Reionization
+      - Scale factor (cosmology)
+      - Accelerating expansion of the universe
+      - Water
+      - Unicellular organism
+      - Evolution of photosynthesis
+      - Multicellular organism
+      - Vertebrate
+      - Age of the universe
+      - Stellar population
+      - HD1 (galaxy)
+      - Quasar
+      - Supermassive black hole
+      - Omega Centauri
+      - Andromeda Galaxy
+      - Milky Way
+      - NGC 188
+      - Alpha Centauri
+      - Early Earth
+      - Formation and evolution of the Solar System
+      - Earliest known life forms
+      - Geological history of oxygen
+      - Geological history of oxygen
+      - Sexual reproduction
+      - Evolution of fungi
+      - Caveasphaera
+      - Evolutionary history of plants
+      - Cambrian explosion
+      - Mammal
+      - Ape
+      - Human
+      - Timeline of the evolutionary history of life
+      - Billion years
+      - General relativity
+      - Homogeneity (physics)
+      - Isotropy
+      - Cosmological constant
+      - Cold dark matter
+      - Lambda-CDM model
+      - Redshift
+      - Planck epoch
+      - Planck time
+      - Gravity
+      - Fundamental interactions
+      - Grand unification
+      - Quantum gravity
+      - Big Bang
+      - Expansion of the universe
+      - Cosmic inflation
+      - Scientific Notation
+      - Flatness problem
+      - Horizon problem
+      - Subatomic particles
+      - Quark epoch
+      - Hadron epoch
+      - Lepton epoch
+      - Elementary particle
+      - Proton
+      - Neutron
+      - Atomic nuclei
+      - Nuclear fusion
+      - Big Bang nucleosynthesis
+      - Proton
+      - Neutron
+      - Helium
+      - Deuterium
+      - Isotope
+      - Hydrogen
+      - Lithium
+      - Chemical element
+      - Hydrogen
+      - Photon epoch
+      - Atom
+      - Plasma (physics)
+      - Electron
+      - Neutrino
+      - Atom
+      - Recombination (cosmology)
+      - Opacity (optics)
+      - Wavelength
+      - Photon decoupling
+      - Cosmic microwave background
+      - Energy density
+      - Electromagnetic radiation
+      - Matter
+      - Cosmological redshift
+      - Energy density
+      - Neutrino
+      - Radiation-dominated era
+      - Matter-dominated era
+      - Filament (cosmology)
+      - Dark matter
+      - Gravity
+      - Void (astronomy)
+      - Star
+      - Population III
+      - Metallicity
+      - Reionization
+      - Stellar nucleosynthesis
+      - Scalar field
+      - Dark energy
+      - Dark-energy-dominated era
+      - Accelerating expansion of the universe
+      - Observable universe
+      - Age of the universe
+      - Metric expansion of space
+      - Fundamental interaction
+      - Gravitation
+      - Weak nuclear force
+      - Strong nuclear force
+      - Matter
+      - Antimatter
+      - CP violation
+      - Big Bang
+      - Photon
+      - Momentum
+      - Angular momentum
+      - Gauss's law
+      - Stress–energy–momentum pseudotensor
+      - Observational cosmology
+      - Terrestrial television
+      - Space
+      - Speed of light
+      - Expansion of space
+      - Earth
+      - Observable universe
+      - Comoving distance
+      - Parsecs
+      - Observable universe
+      - Age of the universe
+      - Galaxy
+      - Parsecs
+      - Light-years
+      - Milky Way
+      - Andromeda Galaxy
+      - Hubble volume
+      - Hartle–Hawking state
+      - Age of the universe
+      - Expansion of the universe
+      - Lambda-CDM model
+      - Measurement uncertainty
+      - Milky Way
+      - Quasar
+      - Expansion of the universe
+      - Redshift
+      - Type Ia supernova
+      - Accelerating expansion of the Universe
+      - Gravitational
+      - Gravitational singularity
+      - Monotonic
+      - Anthropic principle
+      - Critical Mass Density of the Universe
+      - Deceleration parameter
+      - Scale factor cosmology
+      - Spacetime
+      - World line
+      - Lorentz transformation
+      - Event (relativity)
+      - Spacetime
+      - Special theory of relativity
+      - Speed of light
+      - Absolute value
+      - Gravity
+      - General theory of relativity
+      - Spacetime
+      - John Archibald Wheeler
+      - Newton's law of universal gravitation
+      - Einstein field equations
+      - Tensor calculus
+      - Minkowski spacetime
+      - Schwarzschild metric
+      - Black hole
+      - Friedmann–Lemaître–Robertson–Walker metric
+      - Space
+      - Dimension
+      - Time
+      - 3-space
+      - Shape of the universe
+      - Curvature
+      - Euclidean geometry
+      - Simply connected space
+      - Topology
+      - String theory
+      - Toroid
+      - Space
+      - Shape of the universe
+      - Topology
+      - Geometry
+      - Shape of the universe
+      - Observable universe
+      - Shape of the universe
+      - Space-like
+      - Comoving distance
+      - Light cone
+      - Cosmological horizon
+      - Elementary particle
+      - Observation
+      - Age of the universe
+      - Cosmological model
+      - Density parameter
+      - Shape of the universe
+      - Cosmic Background Explorer
+      - Wilkinson Microwave Anisotropy Probe
+      - Planck (spacecraft)
+      - Friedmann–Lemaître–Robertson–Walker metric
+      - Minkowski space
+      - Dark matter
+      - Dark energy
+      - Fine-tuned universe
+      - Life
+      - Physical constant
+      - Matter
+      - Philosophy
+      - Scientist
+      - Theology
+      - Creationism
+      - Galaxy formation and evolution
+      - Galaxy cluster
+      - Nebula
+      - Matter
+      - Electromagnetic radiation
+      - Mass–energy equivalence
+      - Antimatter
+      - Life
+      - Density
+      - Galaxy filament
+      - Cold dark matter
+      - Dark energy
+      - Void (astronomy)
+      - Atom
+      - Star
+      - Galaxy groups and clusters
+      - Galaxy filament
+      - Sand
+      - Earth
+      - Inflation (cosmology)
+      - Dwarf galaxy
+      - 10^12
+      - Void (astronomy)
+      - Milky Way
+      - Local Group
+      - Laniakea Supercluster
+      - Isotropic
+      - Microwave
+      - Electromagnetic radiation
+      - Thermal equilibrium
+      - Blackbody spectrum
+      - Kelvin
+      - Cosmological principle
+      - Dark energy
+      - Mass–energy equivalence
+      - Cosmological constant
+      - Scalar field
+      - Quintessence (physics)
+      - Moduli (physics)
+      - Vacuum energy
+      - Dark matter
+      - Matter
+      - Electromagnetic spectrum
+      - Observable universe
+      - Neutrinos
+      - Hot dark matter
+      - Astrophysics
+      - Blackbody spectrum
+      - Electromagnetic radiation
+      - Matter
+      - Atom
+      - Ion
+      - Electron
+      - Star
+      - Interstellar medium
+      - Intergalactic medium
+      - Planet
+      - State of matter
+      - Phase (matter)
+      - Solid
+      - Liquid
+      - Gas
+      - Plasma (physics)
+      - Bose–Einstein condensate
+      - Fermionic condensate
+      - Elementary particle
+      - Quark
+      - Lepton
+      - Up quarks
+      - Down quark
+      - Atomic nucleus
+      - Baryons
+      - Baryon
+      - Big Bang
+      - Quark–gluon plasma
+      - Big Bang nucleosynthesis
+      - Lithium
+      - Beryllium
+      - Boron
+      - Carbon
+      - Metallicity
+      - Stellar nucleosynthesis
+      - Supernova nucleosynthesis
+      - Particle physics
+      - Elementary particle
+      - Quantum mechanics
+      - Wave–particle duality
+      - Wave
+      - Standard Model
+      - Electromagnetism
+      - Weak interaction
+      - Strong interaction
+      - Quark
+      - Lepton
+      - Antimatter
+      - Fundamental interactions
+      - Photon
+      - W and Z bosons
+      - Gluon
+      - Higgs boson
+      - Hadron
+      - Composite particle
+      - Quark
+      - Bound state
+      - Strong force
+      - Baryon
+      - Proton
+      - Neutron
+      - Meson
+      - Pion
+      - Antiparticle
+      - Big Bang
+      - Hadron epoch
+      - Hadron
+      - Thermal equilibrium
+      - Annihilation
+      - Lepton
+      - Elementary particle
+      - Half-integer spin
+      - Pauli exclusion principle
+      - Electric charge
+      - Neutrino
+      - Muon
+      - Tau (particle)
+      - High energy physics
+      - Cosmic ray
+      - Particle accelerator
+      - Composite particle
+      - Atom
+      - Positronium
+      - Electron
+      - Chemistry
+      - Atom
+      - Chemical property
+      - Lepton epoch
+      - Lepton
+      - Big Bang
+      - Hadron epoch
+      - Annihilation
+      - Photon
+      - Photon epoch
+      - Photon epoch
+      - Photino
+      - Quantum
+      - Light
+      - Electromagnetic radiation
+      - Force carrier
+      - Electromagnetic force
+      - Force
+      - Microscopic scale
+      - Macroscopic scale
+      - Rest mass
+      - Fundamental interaction
+      - Annihilation
+      - Plasma (physics)
+      - Structure formation
+      - Template talk:Big Bang timeline
+      - Chronology of the universe
+      - Chronology of the universe
+      - Big Bang
+      - Planck epoch
+      - Grand unification epoch
+      - Electroweak epoch
+      - Inflationary epoch
+      - Inflation (cosmology)
+      - Baryogenesis
+      - Quark epoch
+      - Hadron epoch
+      - Lepton epoch
+      - Photon epoch
+      - Big Bang nucleosynthesis
+      - Chronology of the universe
+      - Recombination (cosmology)
+      - Chronology of the universe
+      - Chronology of the universe
+      - Reionization
+      - Ultimate fate of the universe
+      - Heat death of the universe
+      - Big Rip
+      - Big Crunch
+      - Big Bounce
+      - Big Slurp
+      - Graphical timeline of the Big Bang
+      - Solutions of the Einstein field equations
+      - Big Bang
+      - Ultimate fate of the universe
+      - General relativity
+      - Differential geometry
+      - Theoretical physics
+      - Gravitation
+      - Albert Einstein
+      - Modern physics
+      - Physical cosmology
+      - Special relativity
+      - Newton's law of universal gravitation
+      - Space
+      - Time in physics
+      - Curvature
+      - Energy
+      - Momentum
+      - Matter
+      - Radiation
+      - Einstein field equations
+      - Partial differential equation
+      - Acceleration
+      - Cosmological principle
+      - Metric (general relativity)
+      - Friedmann–Lemaître–Robertson–Walker metric
+      - Spherical coordinate system
+      - Dimensionless
+      - Scale factor (cosmology)
+      - Expansion of the universe
+      - Euclidean geometry
+      - Curvature
+      - Cosmological constant
+      - Friedmann equation
+      - Alexander Friedmann
+      - Albert Einstein
+      - Gravitational singularity
+      - Penrose–Hawking singularity theorems
+      - Big Bang
+      - Quantum theory of gravity
+      - Light-year
+      - 3-sphere
+      - Cosmological principle
+      - Torus
+      - Periodic boundary conditions
+      - Ultimate fate of the universe
+      - Big Crunch
+      - Big Bounce
+      - Future of an expanding universe
+      - Heat death of the universe
+      - Accelerated expansion
+      - Big Rip
+      - Multiverse
+      - Many-worlds interpretation
+      - Bubble universe theory
+      - Eternal inflation
+      - Set (mathematics)
+      - Multiverse
+      - Plane (esotericism)
+      - Simulated reality
+      - Max Tegmark
+      - Multiverse
+      - Physics
+      - Bubble universe theory
+      - Many-worlds interpretation
+      - Quantum superposition
+      - Decoherence
+      - Wave function
+      - Universal wavefunction
+      - Interpretations of quantum mechanics
+      - Multiverse
+      - Hubble volume
+      - Doppelgänger
+      - Double exponential function
+      - Googolplex
+      - Soap bubble
+      - Moon
+      - Causality
+      - Dimension
+      - Topology
+      - Matter
+      - Energy
+      - Physical law
+      - Physical constant
+      - Chaotic inflation
+      - Cosmology
+      - Timeline of cosmological theories
+      - Nicolaus Copernicus
+      - Philosophiæ Naturalis Principia Mathematica
+      - Albert Einstein
+      - General relativity
+      - Big Bang
+      - Creation myth
+      - Cosmogony
+      - Religious cosmology
+      - List of creation myths
+      - Truth
+      - World egg
+      - Finnish people
+      - Epic poetry
+      - Kalevala
+      - China
+      - Pangu
+      - History of India
+      - Brahmanda Purana
+      - Tibetan Buddhism
+      - Adi-Buddha
+      - Ancient Greece
+      - Gaia (mythology)
+      - Aztec mythology
+      - Coatlicue
+      - Ancient Egyptian religion
+      - Ennead
+      - Atum
+      - Judeo-Christian
+      - Genesis creation narrative
+      - God in Abrahamic religions
+      - Maori mythology
+      - Rangi and Papa
+      - Tiamat
+      - Babylon
+      - Enuma Elish
+      - Ymir
+      - Norse mythology
+      - Izanagi
+      - Izanami
+      - Japanese mythology
+      - Brahman
+      - Prakrti
+      - Serer creation myth
+      - Serer people
+      - Yin and yang
+      - Tao
+      - Cosmology
+      - Pre-Socratic philosophy
+      - Physics (Aristotle)
+      - Hindu cosmology
+      - Islamic cosmology
+      - Philosophy of space and time
+      - Pre-Socratic philosophy
+      - Arche
+      - Thales
+      - Water (classical element)
+      - Anaximander
+      - Apeiron (cosmology)
+      - Anaximenes of Miletus
+      - Air (classical element)
+      - Anaxagoras
+      - Nous
+      - Heraclitus
+      - Fire (classical element)
+      - Logos
+      - Empedocles
+      - Pythagoras
+      - Plato
+      - Number
+      - Platonic solids
+      - Democritus
+      - Leucippus
+      - Atom
+      - Void (astronomy)
+      - Vacuum
+      - Aristotle
+      - Drag (physics)
+      - Parmenides
+      - Zeno of Elea
+      - Zeno's paradoxes
+      - Indian philosophy
+      - Kanada (philosopher)
+      - Vaisheshika
+      - Atomism
+      - Light
+      - Heat
+      - Buddhist atomism
+      - Dignāga
+      - Atom
+      - Temporal finitism
+      - Abrahamic religions
+      - Judaism
+      - Christianity
+      - Islam
+      - Christian philosophy
+      - John Philoponus
+      - Early Islamic philosophy
+      - Al-Kindi
+      - Jewish philosophy
+      - Saadia Gaon
+      - Kalam
+      - Al-Ghazali
+      - Pantheism
+      - Philosophy
+      - Religion
+      - Divinity
+      - Deity
+      - Immanence
+      - God (male deity)
+      - Goddess
+      - History of astronomy
+      - Timeline of astronomy
+      - Aristarchus of Samos
+      - History of astronomy
+      - Ancient Egypt
+      - Mesopotamia
+      - Common Era
+      - Babylonian astronomy
+      - Flat Earth
+      - Anaximander
+      - Hecataeus of Miletus
+      - Ancient Greece
+      - Empirical evidence
+      - Eudoxus of Cnidos
+      - Retrograde and prograde motion
+      - Celestial spheres
+      - Classical elements
+      - Aether (classical element)
+      - De Mundo
+      - Callippus
+      - Ptolemy
+      - Fourier series
+      - Pythagoreans
+      - Philolaus
+      - Stobaeus
+      - Earth
+      - Sun
+      - Moon
+      - Planet
+      - Greek astronomy
+      - Aristarchus of Samos
+      - Heliocentrism
+      - Archimedes
+      - The Sand Reckoner
+      - Stellar parallax
+      - Flammarion engraving
+      - Seleucus of Seleucia
+      - Hellenistic astronomer
+      - Reasoning
+      - Tide
+      - Strabo
+      - Geometry
+      - Nicolaus Copernicus
+      - Middle Ages
+      - Heliocentrism
+      - Islamic astronomy
+      - Ja'far ibn Muhammad Abu Ma'shar al-Balkhi
+      - Al-Sijzi
+      - Copernican heliocentrism
+      - Thomas Digges
+      - Planet
+      - Western world
+      - Earth
+      - Sun
+      - Earth's rotation
+      - Philolaus
+      - Heraclides Ponticus
+      - Ecphantus the Pythagorean
+      - Nicholas of Cusa
+      - Empirical research
+      - Comet
+      - Nasīr al-Dīn al-Tūsī
+      - Ali Qushji
+      - Isaac Newton
+      - Christiaan Huygens
+      - Newton's laws of motion
+      - Edmund Halley
+      - Jean-Philippe de Chéseaux
+      - Olbers' paradox
+      - Jeans instability
+      - Carl Charlier
+      - Fractal
+      - Johann Heinrich Lambert
+      - Immanuel Kant
+      - Nebula
+      - Alexander von Humboldt
+      - Hooker Telescope
+      - Edwin Hubble
+      - Cepheid variable
+      - Andromeda Galaxy
+      - Triangulum Nebula
+      - Physical cosmology
+      - Albert Einstein
+      - General theory of relativity
+      - Earth
+      - Solar System
+      - Radcliffe Wave
+      - Orion Arm
+      - Milky Way
+      - Local Group
+      - Virgo Supercluster
+      - Laniakea Supercluster
+      - Observable universe
+      - Cosmic Calendar
+      - Cosmic latte
+      - Detailed logarithmic timeline
+      - Earth's location in the universe
+      - False vacuum
+      - Future of an expanding universe
+      - Galaxy And Mass Assembly survey
+      - Heat death of the universe
+      - History of the center of the Universe
+      - Illustris project
+      - Non-standard cosmology
+      - Nucleocosmochronology
+      - Parallel universe (fiction)
+      - Rare Earth hypothesis
+      - Space and survival
+      - Terasecond and longer
+      - Timeline of the early universe
+      - Timeline of the far future
+      - Timeline of the near future
+      - Zero-energy universe
+      - Modern physics
+      - Theory of relativity
+      - Spacetime
+      - Parsec
+      - Nanometers
+      - Parsec
+      - Brian Greene
+      - The Hidden Reality
+      - Alfred A. Knopf
+      - The Astrophysical Journal
+      - Nabila Aghanim
+      - Yvonne Dold-Samplonius
+      - Stephen Hawking
+      - George Francis Rayner Ellis
+      - Monthly Notices of the Royal Astronomical Society
+      - Ruth Durrer
+      - Barbara Ryden
+      - Nature (journal)
+      - Samar Safi-Harb
+      - Annette Ferguson
+      - Nial Tanvir
+      - Don Page (physicist)
+      - Adam Riess
+      - Saul Perlmutter
+      - Bernard Schutz
+      - N. David Mermin
+      - John Archibald Wheeler
+      - Physics Education
+      - Herbert Goldstein
+      - Classical Mechanics (Goldstein)
+      - Judith R. Goodstein
+      - Yvonne Choquet-Bruhat
+      - Chanda Prescod-Weinstein
+      - Jean-Pierre Luminet
+      - Nature (journal)
+      - TalkOrigins Archive
+      - Scientific American
+      - BBC Sky at Night
+      - European Space Agency
+      - Centre for Astrophysics and Supercomputing
+      - CNET
+      - Monthly Notices of the Royal Astronomical Society
+      - Live Science
+      - Scientific Reports
+      - Elizabeth Gibney
+      - Hannah Devlin
+      - Mario Livio
+      - Sean M. Carroll
+      - Claude Cohen-Tannoudji
+      - Springer (publisher)
+      - Barton Zwiebach
+      - Penguin Group
+      - Encyclopædia Britannica
+      - North-Holland Publishing Company
+      - Massachusetts Institute of Technology
+      - Max Planck Institute for Astrophysics
+      - Alexander Friedmann
+      - Andrei Linde
+      - Andrei Linde
+      - Hugh Everett
+      - Philip Ball
+      - Aeon.co
+      - Asher Peres
+      - Quantum Theory: Concepts and Methods
+      - Adrian Kent
+      - Anton Zeilinger
+      - N. David Mermin
+      - Physics Today
+      - Olimpia Lombardi
+      - Clara Moskowitz
+      - Henry Gravrand
+      - Universität Frankfurt am Main
+      - Edward N. Zalta
+      - Edward N. Zalta
+      - Edward N. Zalta
+      - Will Durant
+      - Ancient Greece
+      - Jainism
+      - Democritus
+      - Udayana
+      - Vācaspati Miśra
+      - Isaac Newton
+      - Samkhya
+      - Taylor & Francis
+      - Thomas Heath (classicist)
+      - Otto E. Neugebauer
+      - Chaldaea
+      - George Sarton
+      - Babylonia
+      - Seleucus of Seleucia
+      - Chaldea
+      - Lucio Russo
+      - Hossein Nasr
+      - Steven Frautschi
+      - Tom M. Apostol
+      - David L. Goodstein
+      - The Mechanical Universe
+      - Jean-Philippe de Cheseaux
+      - Heinrich Wilhelm Matthäus Olbers
+      - Philosophical Transactions of the Royal Society A
+      - Albert Einstein
+      - Bartel Leendert van der Waerden
+      - Lev Landau
+      - Evgeny Lifshitz
+      - Course of Theoretical Physics
+      - Charles W. Misner
+      - Kip Thorne
+      - John Archibald Wheeler
+      - Gravitation (book)
+      - Wolfgang Rindler
+      - LiveScience
+      - Forbes
+      - wikt:Universe
+      - q:Universe
+      - Template talk:Cosmology topics
+      - Cosmology
+      - Age of the universe
+      - Big Bang
+      - Chronology of the universe
+      - Observable universe
+      - Discovery of cosmic microwave background radiation
+      - History of the Big Bang theory
+      - Religious interpretations of the Big Bang theory
+      - Timeline of cosmological theories
+      - Cosmic microwave background
+      - Cosmic neutrino background
+      - Gravitational wave background
+      - Inflation (cosmology)
+      - Big Bang nucleosynthesis
+      - Friedmann–Lemaître–Robertson–Walker metric
+      - Friedmann equations
+      - Hubble's law
+      - Expansion of the universe
+      - Accelerating expansion of the universe
+      - Redshift
+      - Future of an expanding universe
+      - Ultimate fate of the universe
+      - Dark energy
+      - Dark fluid
+      - Dark matter
+      - Quintessence (physics)
+      - Lambda-CDM model
+      - Galaxy filament
+      - Galaxy formation and evolution
+      - Large quasar group
+      - Large-scale structure of the cosmos
+      - Reionization
+      - Shape of the universe
+      - Structure formation
+      - 2dF Galaxy Redshift Survey
+      - 6dF Galaxy Survey
+      - BOOMERanG experiment
+      - Cosmic Background Explorer
+      - Illustris project
+      - Observational cosmology
+      - Planck (spacecraft)
+      - Sloan Digital Sky Survey
+      - Wilkinson Microwave Anisotropy Probe
+      - Template talk:Earth's location
+      - Location of Earth
+      - Earth
+      - Solar System
+      - Local Interstellar Cloud
+      - Local Bubble
+      - Gould Belt
+      - Orion Arm
+      - Milky Way
+      - Satellite galaxies of the Milky Way
+      - Local Group
+      - Local Sheet
+      - Virgo Supercluster
+      - Laniakea Supercluster
+      - Local Hole
+      - Observable universe
+      - Cosmic View
+      - To the Moon and Beyond
+      - Cosmic Zoom
+      - Powers of Ten (film)
+      - Cosmic Voyage (1996 film)
+      - Cosmic Eye
+      - History of the center of the Universe
+      - Order of magnitude
+      - Pisces–Cetus Supercluster Complex
+      - Template talk:Fundamental interactions
+      - Fundamental interaction
+      - Physics
+      - Force
+      - Strong interaction
+      - Nuclear force
+      - Electroweak interaction
+      - Weak interaction
+      - Electromagnetism
+      - Gravity
+      - Radiation
+      - Electromagnetic radiation
+      - Gravitational wave
+      - Fifth force
+      - Quintessence (physics)
+      - Weak gravity conjecture
+      - Glossary of physics
+      - Particle physics
+      - Philosophy of physics
+      - Weakless universe
+      - Template talk:Nature
+      - Nature
+      - Space
+      - Time
+      - Energy
+      - Matter
+      - Particle
+      - Chemical element
+      - Calculus
+      - Earth
+      - Earth science
+      - History of Earth
+      - Geological history of Earth
+      - Internal structure of Earth
+      - Geology
+      - Plate tectonics
+      - Ocean
+      - Gaia hypothesis
+      - Future of Earth
+      - Weather
+      - Meteorology
+      - Atmosphere of Earth
+      - Climate
+      - Cloud
+      - Moonlight
+      - Rain
+      - Snow
+      - Sunlight
+      - Tide
+      - Wind
+      - Tornado
+      - Tropical cyclone
+      - Natural environment
+      - Ecology
+      - Ecosystem
+      - Field (physics)
+      - Radiation
+      - Wilderness
+      - Wildfire
+      - Life
+      - Abiogenesis
+      - History of life
+      - Biosphere
+      - Biological organisation
+      - Biology
+      - Astrobiology
+      - Biodiversity
+      - Organism
+      - Eukaryote
+      - Flora
+      - Plant
+      - Fauna
+      - Animal
+      - Fungus
+      - Protist
+      - Prokaryote
+      - Archaea
+      - Bacteria
+      - Virus
+
+  Synset: cosmos.n.02
+    Definition: any of various mostly Mexican herbs of the genus Cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals
+    Wikipedia URL: https://en.wikipedia.org/wiki/cosmos
+    Probability: 0.5
+    Similar Concepts from Wikipedia:
+      - Visit the main page [z]
+      - Kosmos – Afrikaans
+      - الكون – Arabic
+      - Kosmos (fəlsəfə) – Azerbaijani
+      - Йыһан – Bashkir
+      - Космас (філасофія) – Belarusian
+      - Cosmos – Catalan
+      - Космослăх – Chuvash
+      - Kosmos – Czech
+      - Kosmos – Danish
+      - Κόσμος – Greek
+      - Cosmos – Spanish
+      - Kosmo – Esperanto
+      - Kosmos – Basque
+      - کیهان – Persian
+      - Cosmos (philosophie) – French
+      - Cosmos – Galician
+      - 우주 (계통) – Korean
+      - Տիեզերք (փիլիսոփայություն) – Armenian
+      - Kosmo – Ido
+      - Kosmos – Indonesian
+      - Cosmo – Italian
+      - Kosmos – Javanese
+      - ಅಂತರಿಕ್ಷ – Kannada
+      - ຈັກກະວານ – Lao
+      - Cosmos – Latin
+      - Kosmas – Lithuanian
+      - Cosmo – Ligurian
+      - گیتا – Mazanderani
+      - Kosmos – Malay
+      - コスモス (宇宙観) – Japanese
+      - Kosmos – Norwegian Bokmål
+      - Kosmos – Norwegian Nynorsk
+      - Koinot – Uzbek
+      - ਕੌਸਮੋਸ – Punjabi
+      - کیهان – Pashto
+      - Cosmo – Portuguese
+      - Cosmos – Romanian
+      - Pamaway – Quechua
+      - Козмос – Rusyn
+      - Космос (философия) – Russian
+      - کۆسمۆس – Central Kurdish
+      - Космос – Serbian
+      - Kosmos – Finnish
+      - Kosmos – Swedish
+      - จักรวาล – Thai
+      - Cosmos (mitoloji) – Turkish
+      - Космос (філософія) – Ukrainian
+      - عالم ظاہر – Urdu
+      - Hệ vũ trụ – Vietnamese
+      - 宇宙 (系统) – Chinese
+      - View the content page [c]
+      - Discuss improvements to the content page [t]
+      - Cosmos (disambiguation)
+      - Flammarion engraving
+      - Ancient Greek language
+      - Romanization of Ancient Greek
+      - American English
+      - Universe
+      - System
+      - Cosmology
+      - wikt:κοσμέω
+      - Philosopher
+      - Pythagoras
+      - Ancient Greek language
+      - Anaxagoras
+      - Nous
+      - wikt:κόσμος
+      - Thales
+      - Miletus
+      - Plato
+      - Cercops
+      - Bertrand Russell
+      - Anaximander
+      - Socrates
+      - Ionian Islands
+      - Thales of Miletus
+      - Aristotle
+      - Theophrastus
+      - Geocentric model
+      - Aperture
+      - Nicolaus Copernicus
+      - Geocentric model
+      - Heliocentric model
+      - Persians
+      - Ancient Greeks
+      - Quintessence (physics)
+      - Plato
+      - Eudoxus of Cnidus
+      - Aristotle
+      - Ptolemy
+      - Nicolaus Copernicus
+      - Scientific Revolution
+      - Yin and yang
+      - Yin and yang
+      - Joseph Needham
+      - Yoga Vasistha
+      - Australian Aboriginal astronomy
+      - Milky Way
+      - Yolŋu
+      - Pleiades
+      - Copernican Revolution
+      - Ibn al-Haytham
+      - Al-Battani
+      - Aristarchus of Samos
+      - Lunar eclipse
+      - De revolutionibus orbium coelestium
+      - Neoplatonism
+      - Plotinus
+      - Anima Mundi
+      - Nicholas of Cusa
+      - Cosmology
+      - Medieval
+      - Peter Apian
+      - Cosmology
+      - Philosophy
+      - Physical cosmology
+      - Physical cosmology
+      - Spacetime
+      - Multiverse
+      - Observable universe
+      - Big Bang
+      - Cosmic rays
+      - Outer space
+      - Cosmic microwave background
+      - s:Author:Charles Peter Mason
+      - William Smith (lexicographer)
+      - Dictionary of Greek and Roman Biography and Mythology
+      - Pythagoreanism
+      - Philolaus
+      - Philolaus
+      - Universe
+      - Standard Model of Cosmology
+      - James Webb Space Telescope
+      - Instanton
+      - Black hole
+      - Metaphysics
+      - Big Bang
+      - Religious cosmology
+      - Hellenistic philosophy and Christianity
+      - Orphism (religion)
+      - Theology
+      - Creation myth
+      - Fixed stars
+      - Christendom
+      - New Testament
+      - Christian theology
+      - Aeon
+      - Afterlife
+      - World to come
+      - Carl Sagan
+      - Cosmos (Carl Sagan book)
+      - Cosmos: A Personal Voyage
+      - Cosmos: A Spacetime Odyssey
+      - Cosmos: Possible Worlds
+      - Cosmic View
+      - Cosmic Zoom
+      - Cosmonaut
+      - Cosmicism
+      - Cosmogony
+      - Cosmogram
+      - Cosmography
+      - Macrocosm and microcosm
+      - Megaverse (disambiguation)
+      - Oikeiôsis
+      - Omega point (de Chardin)
+      - Omniverse (disambiguation)
+      - Rerikhism
+      - Russian cosmism
+      - Iamblichus
+      - Aetius (philosopher)
+      - Wayback Machine
+      - The New York Times
+      - Phys.org
+      - American Journal of Physics
+      - wiktionary:cosmos
+      - Wayback Machine
+      - Template talk:Metaphysics
+      - Metaphysics
+      - Abstract object theory
+      - Action theory (philosophy)
+      - Anti-realism
+      - Determinism
+      - Mind–body dualism
+      - Enactivism
+      - Essentialism
+      - Existentialism
+      - Free will
+      - Idealism
+      - Libertarianism (metaphysics)
+      - Liberty
+      - Materialism
+      - Meaning of life
+      - Monism
+      - Naturalism (philosophy)
+      - Nihilism
+      - Phenomenalism
+      - Philosophical realism
+      - Physicalism
+      - Relativism
+      - Scientific realism
+      - Solipsism
+      - Spiritualism (philosophy)
+      - Subjectivism
+      - Substance theory
+      - Theory of forms
+      - Truthmaker theory
+      - Type theory
+      - Abstract and concrete
+      - Anima mundi
+      - Causality
+      - Causal closure
+      - Cogito, ergo sum
+      - Concept
+      - Embodied cognition
+      - Essence
+      - Existence
+      - Experience
+      - Hypostatic abstraction
+      - Idea
+      - Identity (philosophy)
+      - Information
+      - Insight
+      - Intelligence
+      - Intention
+      - Linguistic modality
+      - Matter (philosophy)
+      - Meaning (existential)
+      - Mental representation
+      - Mind
+      - Motion
+      - Nature (philosophy)
+      - Metaphysical necessity
+      - Object (philosophy)
+      - Ontology
+      - Pattern
+      - Perception
+      - Physical object
+      - Principle
+      - Property (philosophy)
+      - Qualia
+      - Quality (philosophy)
+      - Reality
+      - Relations (philosophy)
+      - Soul
+      - Subject (philosophy)
+      - Substantial form
+      - Thought
+      - Time
+      - Truth
+      - Type–token distinction
+      - Universal (metaphysics)
+      - Unobservable
+      - Value (ethics)
+      - Index of metaphysics articles
+      - List of metaphysicians
+      - Parmenides
+      - Plato
+      - Aristotle
+      - Proclus
+      - Plotinus
+      - Duns Scotus
+      - Thomas Aquinas
+      - Francisco Suárez
+      - René Descartes
+      - Baruch Spinoza
+      - John Locke
+      - Nicolas Malebranche
+      - Isaac Newton
+      - Gottfried Wilhelm Leibniz
+      - Christian Wolff (philosopher)
+      - Thomas Reid
+      - George Berkeley
+      - David Hume
+      - Immanuel Kant
+      - Georg Wilhelm Friedrich Hegel
+      - Arthur Schopenhauer
+      - Bernard Bolzano
+      - Hermann Lotze
+      - Charles Sanders Peirce
+      - Friedrich Nietzsche
+      - Alexius Meinong
+      - Henri Bergson
+      - Alfred North Whitehead
+      - Bertrand Russell
+      - G. E. Moore
+      - R. G. Collingwood
+      - Ludwig Wittgenstein
+      - Martin Heidegger
+      - Rudolf Carnap
+      - Gilbert Ryle
+      - Jean-Paul Sartre
+      - Willard Van Orman Quine
+      - Donald Davidson (philosopher)
+      - P. F. Strawson
+      - G. E. M. Anscombe
+      - Gilles Deleuze
+      - Michael Dummett
+      - David Malet Armstrong
+      - Hilary Putnam
+      - Alvin Plantinga
+      - Saul Kripke
+      - David Lewis (philosopher)
+      - Derek Parfit
+      - List of metaphysicians
+      - Sophist (dialogue)
+      - Timaeus (dialogue)
+      - Nyāya Sūtras
+      - De rerum natura
+      - Metaphysics (Aristotle)
+      - Enneads
+      - Daneshnameh-ye Alai
+      - Meditations on First Philosophy
+      - Ethics (Spinoza book)
+      - A Treatise Concerning the Principles of Human Knowledge
+      - Monadology
+      - Critique of Pure Reason
+      - Prolegomena to Any Future Metaphysics
+      - The Phenomenology of Spirit
+      - The World as Will and Representation
+      - Concluding Unscientific Postscript to Philosophical Fragments
+      - Being and Time
+      - Being and Nothingness
+      - Simulacra and Simulation
+      - Axiology
+      - Cosmology
+      - Epistemology
+      - Feminist metaphysics
+      - Interpretations of quantum mechanics
+      - Mereology
+      - Meta (prefix)
+      - Phenomenology (philosophy)
+      - Philosophy of mind
+      - Philosophy of psychology
+      - Philosophy of self
+      - Philosophy of space and time
+      - Teleology
+
+Word: comet
+  Synset: comet.n.01
+    Definition: (astronomy) a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a highly elliptical orbit
+    Wikipedia URL: https://en.wikipedia.org/wiki/comet
+    Similar Concepts from Wikipedia:
+      - Visit the main page [z]
+      - Komeet – Afrikaans
+      - Komet – Alemannic
+      - धूमकेतु – Angika
+      - Comēta – Old English
+      - مذنب – Arabic
+      - Cometa – Aragonese
+      - Գիսաւորներ – Western Armenian
+      - ধূমকেতু – Assamese
+      - Cometa – Asturian
+      - Jaguaveve – Guarani
+      - Kometa – Azerbaijani
+      - قویروقلو اولدوز – South Azerbaijani
+      - ধূমকেতু – Bangla
+      - Komét – Banjar
+      - Tn̂g-bóe-chhiⁿ – Minnan
+      - Комета – Bashkir
+      - Камета – Belarusian
+      - Камэта – Belarusian (Taraškievica orthography)
+      - पुच्छल तारा – Bhojpuri
+      - Kometa – Central Bikol
+      - Комета – Bulgarian
+      - Komet – Bavarian
+      - Kometa – Bosnian
+      - Steredenn-lostek – Breton
+      - Һүүлтэй одон – Russia Buriat
+      - Cometa – Catalan
+      - Вутлă хӳре – Chuvash
+      - Kometa – Czech
+      - Comed – Welsh
+      - Komet – Danish
+      - Komehta – Northern Sami
+      - Komet – German
+      - ގިނިހިލަ – Divehi
+      - लामपुच्छ्रे तारा – Doteli
+      - Komeet – Estonian
+      - Κομήτης – Greek
+      - Cuméta – Emiliano-Romagnolo
+      - Cometa – Spanish
+      - Kometo – Esperanto
+      - Kometa – Basque
+      - دنباله‌دار – Persian
+      - Jhaarru (taara) – Fiji Hindi
+      - Comète – French
+      - Komeet – Western Frisian
+      - Comete – Friulian
+      - Cóiméad – Irish
+      - Reul earballach – Scottish Gaelic
+      - Cometa – Galician
+      - ધૂમકેતુ – Gujarati
+      - धुमकेतू – Goan Konkani
+      - So-pá-sên – Hakka Chinese
+      - 혜성 – Korean
+      - Գիսաստղ – Armenian
+      - धूमकेतु – Hindi
+      - Komet – Croatian
+      - Komet – Gorontalo
+      - Kometo – Ido
+      - Comet – Igbo
+      - Bandus – Iloko
+      - Komet – Indonesian
+      - Cometa – Interlingua
+      - Comete – Interlingue
+      - UBhaqanyezi – Zulu
+      - Halastjarna – Icelandic
+      - Cometa – Italian
+      - שביט – Hebrew
+      - Komèt – Javanese
+      - ಧೂಮಕೇತು – Kannada
+      - Kometa – Pampanga
+      - კომეტა – Georgian
+      - Комета – Kazakh
+      - Steren lostek – Cornish
+      - Nyotamkia – Swahili
+      - Komèt – Haitian Creole
+      - Комета – Kyrgyz
+      - Cumeta – Ladin
+      - Cometes – Latin
+      - Komēta – Latvian
+      - Koméit – Luxembourgish
+      - Комета – Lezghian
+      - Kometa – Lithuanian
+      - Komeet – Limburgish
+      - Cometa – Lingua Franca Nova
+      - Komiettu – Livvi-Karelian
+      - Cometa – Lombard
+      - Üstökös – Hungarian
+      - Комета – Macedonian
+      - Kometa – Malagasy
+      - ധൂമകേതു – Malayalam
+      - Kometa – Maltese
+      - धूमकेतू – Marathi
+      - კომეტა – Mingrelian
+      - مزنب – Egyptian Arabic
+      - Komet – Malay
+      - Komet – Minangkabau
+      - Chēng-chiū-sĭng – Mindong
+      - ကြယ်တံခွန် – Burmese
+      - Popocacitlalin – Nāhuatl
+      - Komeet – Dutch
+      - लामपुछ्रे तारा – Nepali
+      - तःहाःनगु – Newari
+      - 彗星 – Japanese
+      - Комета – Chechen
+      - Komeet – Northern Frisian
+      - Komet – Norwegian Bokmål
+      - Komet – Norwegian Nynorsk
+      - Conmète – Norman
+      - Komete – Novial
+      - Cometa – Occitan
+      - Qorsaa – Oromo
+      - Kometa – Uzbek
+      - ਪੂਛਲ ਤਾਰਾ – Punjabi
+      - پونچھل سیارا – Western Punjabi
+      - ဆာႏတံꩻခွေါန်ႏ – Pa'O
+      - لکۍ لرونکی ستوری – Pashto
+      - Kamit – Jamaican Creole English
+      - Comëtta – Piedmontese
+      - Komeet – Low German
+      - Kometa – Polish
+      - Cometa – Portuguese
+      - Kometa – Kara-Kalpak
+      - Komeet – Colognian
+      - Cometă – Romanian
+      - Aquchinchay – Quechua
+      - Комета – Rusyn
+      - Комета – Russian
+      - Комета – Yakut
+      - धूमकेतुः – Sanskrit
+      - Coudu – Sardinian
+      - Komete – Saterland Frisian
+      - Kometa – Albanian
+      - Cumeta – Sicilian
+      - වල්ගාතරුව – Sinhala
+      - Comet – Simple English
+      - پوڇڙ تارا – Sindhi
+      - Kométa – Slovak
+      - Komet – Slovenian
+      - کلکدار – Central Kurdish
+      - Комета – Serbian
+      - Kometa – Serbo-Croatian
+      - Komét – Sundanese
+      - Komeetta – Finnish
+      - Komet – Swedish
+      - Kometa – Tagalog
+      - வால்வெள்ளி – Tamil
+      - Asmil (tasnallunt) – Kabyle
+      - Комета – Tatar
+      - తోకచుక్క – Telugu
+      - ดาวหาง – Thai
+      - Cier ayɔl – Dinka
+      - Комета – Tajik
+      - Kuyruklu yıldız – Turkish
+      - Kometa – Turkmen
+      - Комета – Ukrainian
+      - دم دار سیارے – Urdu
+      - قۇيرۇقلۇق يۇلتۇز – Uyghur
+      - Ndaundeiqsauqbaet – Zhuang
+      - Cometa – Venetian
+      - Händtähtaz – Veps
+      - Sao chổi – Vietnamese
+      - Stoele al cawe – Walloon
+      - 欃槍 – Literary Chinese
+      - Kometa – Waray
+      - 彗星 – Wu
+      - קאמעט – Yiddish
+      - 彗星 – Cantonese
+      - Šloutžvaizdė – Samogitian
+      - 彗星 – Chinese
+      - Sunvívánɔ – Fon
+      - View the content page [c]
+      - Discuss improvements to the content page [t]
+      - Comet (disambiguation)
+      - Hale-Bopp
+      - wikidata:Q3559
+      - Small Solar System body
+      - Sun
+      - Outgassing
+      - Coma (cometary)
+      - Comet tail
+      - Solar radiation
+      - Solar wind
+      - Comet nuclei
+      - Astronomical unit
+      - Subtended angle
+      - Orbital eccentricity
+      - Orbital period
+      - Kuiper belt
+      - Scattered disc
+      - Neptune
+      - Oort cloud
+      - Gravitational perturbation
+      - List of nearest stars
+      - Galactic tide
+      - Hyperbolic comet
+      - Extinct comets
+      - Volatility (chemistry)
+      - Main-belt comet
+      - Centaur (minor planet)
+      - Asteroid
+      - Manx comet
+      - Oort cloud
+      - Naked eye
+      - Great comet
+      - Deep Impact (spacecraft)
+      - Tempel 1
+      - Rosetta (spacecraft)
+      - Anglo-Saxon Chronicle
+      - Old English
+      - Latin
+      - Romanization of Greek
+      - Ancient Greek
+      - Oxford English Dictionary
+      - Astronomical symbol
+      - Unicode
+      - 103P/Hartley
+      - Deep Impact (spacecraft)
+      - Comet nucleus
+      - Rock (geology)
+      - Comet dust
+      - Ice
+      - Carbon dioxide
+      - Carbon monoxide
+      - Methane
+      - Ammonia
+      - Fred Whipple
+      - Tempel 1
+      - Fried ice cream
+      - Organic compound
+      - Methanol
+      - Hydrogen cyanide
+      - Formaldehyde
+      - Ethanol
+      - Ethane
+      - Hydrocarbon
+      - Amino acid
+      - Glycine
+      - Stardust (spacecraft)
+      - NASA
+      - Meteorite
+      - DNA
+      - RNA
+      - Adenine
+      - Guanine
+      - Asteroid
+      - Albedo
+      - Giotto (spacecraft)
+      - Space probe
+      - Halley's Comet
+      - Deep Space 1
+      - 19P/Borrelly
+      - Bitumen
+      - Volatility (chemistry)
+      - Chemical compound
+      - Tar
+      - Petroleum
+      - Outgassing
+      - 322P/SOHO
+      - Gravitational collapse
+      - Gravity
+      - 81P/Wild
+      - Near-Earth asteroid
+      - Extinct comet
+      - 14827 Hypnos
+      - 3552 Don Quixote
+      - Rosetta (spacecraft)
+      - Philae (spacecraft)
+      - 67P/Churyumov–Gerasimenko
+      - Planetesimal
+      - Rosetta (spacecraft)
+      - Electron
+      - Comet nucleus
+      - Photoionization
+      - Sunlight
+      - Photon
+      - Carbon dioxide
+      - Molecule
+      - Acetamide
+      - Acetone
+      - Methyl isocyanate
+      - Propionaldehyde
+      - Gram
+      - Kilogram
+      - Halley's Comet
+      - Tempel 1
+      - 19P/Borrelly
+      - 81P/Wild
+      - 67P/Churyumov–Gerasimenko
+      - Coma (cometary)
+      - Hubble Space Telescope
+      - Comet ISON
+      - Perihelion
+      - 19P/Borrelly
+      - Radiation pressure
+      - Solar wind
+      - Volatile (astrogeology)
+      - Astronomical unit
+      - Water
+      - Photodissociation
+      - Photoionization
+      - Photochemistry
+      - Radiation pressure
+      - 17P/Holmes
+      - Great Comet of 1811
+      - Mars
+      - Ion
+      - Telescope
+      - 17P/Holmes
+      - X-ray
+      - Black-body radiation
+      - Far ultraviolet
+      - Bow shock
+      - 21P/Giacobini–Zinner
+      - 26P/Grigg–Skjellerup
+      - Perihelion
+      - Rosetta (spacecraft)
+      - 67P/Churyumov–Gerasimenko
+      - Comet tail
+      - Solar System
+      - Kuiper belt
+      - Hubble Space Telescope
+      - Solar radiation
+      - Antitail
+      - Antitail
+      - Solar wind
+      - Magnetosphere
+      - Bow shock
+      - Magnetic reconnection
+      - Encke's Comet
+      - Coronal mass ejection
+      - STEREO
+      - ESA
+      - Ionosphere
+      - Venus
+      - 103P/Hartley
+      - Dry ice
+      - Small Solar System bodies
+      - Elliptical orbit
+      - Orbital period
+      - List of numbered comets
+      - List of Halley-type comets
+      - List of periodic comets
+      - Ecliptic
+      - Jupiter
+      - Aphelion
+      - Neptune
+      - Main-belt comets
+      - Asteroid belt
+      - Perturbation (astronomy)
+      - Giant planet
+      - Oort cloud
+      - Centaur (minor planet)
+      - Scattered disc
+      - Jan Hendrik Oort
+      - List of long-period comets
+      - List of near-parabolic comets
+      - List of hyperbolic comets
+      - Comet Kohoutek
+      - Orbital eccentricity
+      - Orbital eccentricity
+      - C/2006 P1
+      - Epoch (astronomy)
+      - Orbital eccentricity
+      - Osculating orbit
+      - Barycentric coordinates (astronomy)
+      - C/1999 F1
+      - C/2017 T2 (PANSTARRS)
+      - Parabolic trajectory
+      - Hyperbolic trajectory
+      - Osculating orbit
+      - Hill sphere
+      - Unstable
+      - Two-body problem
+      - Curve fitting
+      - Eccentricity (mathematics)
+      - ʻOumuamua
+      - 2I/Borisov
+      - Outgassing
+      - Interstellar object
+      - C/1980 E1
+      - C/1980 E1
+      - C/2000 U5
+      - C/2001 Q4 (NEAT)
+      - C/2009 R1
+      - C/1956 R1
+      - C/2007 F1
+      - Interstellar space
+      - Specific orbital energy
+      - Hyperbolic excess velocity
+      - Order of magnitude
+      - Hyperbolic comet
+      - Oort cloud
+      - Oort cloud
+      - Hills cloud
+      - Neptune
+      - Jack G. Hills
+      - Exocomet
+      - Exocomet
+      - Milky Way
+      - Beta Pictoris
+      - A-type main-sequence star
+      - Absorption spectroscopy
+      - Kepler space telescope
+      - Citizen science
+      - Perseids
+      - Outgassing
+      - Radiation pressure
+      - Meteor shower
+      - Perseids
+      - Comet Swift–Tuttle
+      - Orionids
+      - Origin of water on Earth
+      - Polycyclic aromatic hydrocarbon
+      - Meteorite
+      - Amino acid
+      - Protein
+      - Shock synthesis
+      - Moon
+      - Lunar ice
+      - Meteoroid
+      - Tektite
+      - Australite
+      - Act of God
+      - Great Comet of 1618
+      - Gotthard Arthusius
+      - Day of Judgment
+      - Edmond Halley
+      - William Whiston
+      - Great Comet of 1680
+      - Genesis flood narrative
+      - Cyanogen
+      - Perturbation (astronomy)
+      - C/1980 E1
+      - 'Oumuamua
+      - 2I/Borisov
+      - Extinct comet
+      - Comet Shoemaker–Levy 9
+      - 3D/Biela
+      - 73P/Schwassmann–Wachmann
+      - Ephorus
+      - 42P/Neujmin
+      - 53P/Van Biesbroeck
+      - C/2023 V5 (Leonard)
+      - Comet West
+      - Comet Ikeya–Seki
+      - Meteor showers
+      - Andromedids
+      - Comet Shoemaker–Levy 9
+      - 73P/Schwassmann–Wachmann
+      - Main-belt comet
+      - Naming of comets
+      - Halley's Comet
+      - Great Comet of 1882
+      - Great January Comet of 1910
+      - Gennadiy Borisov
+      - 2I/Borisov
+      - Observational history of comets
+      - Halley's Comet
+      - Battle of Hastings
+      - Bayeux Tapestry
+      - Tycho Brahe
+      - Geocentric
+      - Great Comet of 1577
+      - Oracle bone
+      - Omen
+      - Aristotle
+      - Zodiac
+      - Apollonius of Myndus
+      - Middle Ages
+      - Seneca the Younger
+      - Pliny the Elder
+      - Indian astronomy
+      - Varāhamihira
+      - Bhadrabahu III
+      - Bhaṭṭotpala
+      - Giotto
+      - Adoration of the Magi
+      - Star of Bethlehem
+      - Luzerner Schilling
+      - Pope Callixtus III
+      - Lutheran
+      - God
+      - Andreas Dudith
+      - Parallax
+      - Regiomontanus
+      - Diurnal parallax
+      - Great Comet of 1472
+      - Tycho Brahe
+      - Michael Maestlin
+      - Great Comet of 1577
+      - Giovanni Alfonso Borelli
+      - The Assayer
+      - Galileo Galilei
+      - Johannes Kepler
+      - Jacob Bernoulli
+      - Early modern period
+      - Isaac Newton
+      - Philosophiæ Naturalis Principia Mathematica
+      - Gravity
+      - Conic section
+      - Parabola
+      - Isaac Newton
+      - Philosophiæ Naturalis Principia Mathematica
+      - Orbital element
+      - Saturn
+      - Alexis Clairaut
+      - Joseph Lalande
+      - Nicole-Reine Lepaute
+      - James Thomson (poet, born 1700)
+      - The Seasons (Thomson poem)
+      - Immanuel Kant
+      - Universal Natural History and Theory of the Heavens
+      - Friedrich Wilhelm Bessel
+      - Jet force
+      - Giovanni Santini
+      - Fred Lawrence Whipple
+      - Spacecraft
+      - European Space Agency
+      - Giotto mission
+      - Vega 1
+      - Vega 2
+      - European Space Agency
+      - Water vapor
+      - Dwarf planet
+      - Ceres (dwarf planet)
+      - Far-infrared astronomy
+      - Herschel Space Observatory
+      - Atacama Large Millimeter Array
+      - Hydrogen cyanide
+      - Hydrogen isocyanide
+      - Formaldehyde
+      - Coma (cometary)
+      - C/2012 F6 (Lemmon)
+      - Comet ISON
+      - List of comets visited by spacecraft
+      - List of missions to comets
+      - Halley Armada
+      - Deep Space 1
+      - 19P/Borrelly
+      - Deep Impact (spacecraft)
+      - Tempel 1
+      - EPOXI
+      - 103P/Hartley
+      - Ulysses (spacecraft)
+      - C/2006 P1 (McNaught)
+      - Stardust (spacecraft)
+      - Rosetta (spacecraft)
+      - 67P/Churyumov–Gerasimenko
+      - Great comet
+      - Great Comet of 1577
+      - Great Comet of 1577
+      - Comet Kohoutek
+      - Comet West
+      - List of near-parabolic comets
+      - Taqi ad-Din Muhammad ibn Ma'ruf
+      - Comet Hyakutake
+      - Hale–Bopp
+      - C/2006 P1
+      - Sungrazing comet
+      - Sun
+      - Tidal force
+      - Solar and Heliospheric Observatory
+      - Kreutz sungrazer
+      - 96P/Machholz
+      - Meteor shower
+      - Quadrantids
+      - Arietids
+      - Swastika
+      - Euler diagram
+      - Mercury (planet)
+      - 29P/Schwassmann–Wachmann
+      - 2060 Chiron
+      - Uranus
+      - 137P/Shoemaker–Levy
+      - 95P/Chiron
+      - Comet Bernardinelli-Bernstein
+      - Comet of 1729
+      - Centaur (minor planet)
+      - 60558 Echeclus
+      - 166P/NEAT
+      - 60558 Echeclus
+      - Cassini–Huygens
+      - Telescope
+      - Binoculars
+      - Amateur astronomer
+      - Solar and Heliospheric Observatory
+      - Lost comet
+      - Lost comet
+      - 11P/Tempel–Swift–LINEAR
+      - LINEAR
+      - Comets in fiction
+      - Popular culture
+      - Mark Twain
+      - Eudora Welty
+      - Mary Chapin Carpenter
+      - Halley Came to Jackson
+      - Cyanogen
+      - Heaven's Gate (religious group)
+      - Science fiction
+      - Impact event
+      - Deep Impact (film)
+      - Armageddon (1998 film)
+      - Lucifer's Hammer
+      - Night of the Comet
+      - Jules Verne
+      - Off on a Comet
+      - Arthur C. Clarke
+      - 2061: Odyssey Three
+      - Jean-Louis Pons
+      - Florence
+      - Lydia Sigourney
+      - s:Poems Sigourney 1827/The Comet of 1825
+      - Comet Neowise
+      - C/2006 P1
+      - Great Comet of 1882
+      - Kreutz sungrazer
+      - Edmund Weiss
+      - C/1861 J1
+      - Comet Hyakutake
+      - X-ray
+      - ROSAT
+      - 311P/PANSTARRS
+      - C/2013 A1
+      - Hubble Space Telescope
+      - Wide-field Infrared Survey Explorer
+      - NEOWISE
+      - Neowise
+      - STEREO
+      - C/2011 W3
+      - Solar wind
+      - Deep Impact (spacecraft)
+      - Tempel 1
+      - STEREO
+      - Comet Encke
+      - The Big Splash (book)
+      - Comet vintages
+      - List of impact craters on Earth
+      - List of possible impact structures on Earth
+      - Lists of comets
+      - Oxford English Dictionary
+      - Astronomy & Astrophysics
+      - NASA
+      - Nature (journal)
+      - NASA
+      - Astronomy & Astrophysics
+      - Science (journal)
+      - Volume
+      - Rubble pile
+      - Volume
+      - Volume
+      - Volume
+      - David C. Jewitt
+      - Astronomy & Astrophysics
+      - Astronomy & Astrophysics
+      - Astronomy Picture of the Day
+      - NASA
+      - The New York Times
+      - JPL Small-Body Database
+      - Encyclopædia Britannica Online
+      - The Astronomical Journal
+      - The Astronomical Journal
+      - Icarus (journal)
+      - Astronomy & Astrophysics
+      - Scientific American
+      - National Geographic
+      - Galaxy Science Fiction
+      - Gotthard Arthusius
+      - Frankfurt on Main
+      - The New York Times
+      - JPL Horizons On-Line Ephemeris System
+      - Center of mass
+      - Barycentric coordinates (astronomy)
+      - Scientific American
+      - The Astrophysical Journal
+      - NASA
+      - Ian Ridpath
+      - Ian Ridpath
+      - Springer Science+Business Media
+      - Springer Science+Business Media
+      - European Southern Observatory
+      - Isaac Newton
+      - Philosophiæ Naturalis Principia Mathematica
+      - Royal Society of London
+      - Joseph-Nicolas Delisle
+      - Charles Messier
+      - Johann Georg Palitzsch
+      - Dominique Bockelée-Morvan
+      - NASA
+      - NASA
+      - The Astrophysical Journal
+      - Astronomy & Astrophysics
+      - Monthly Notices of the Royal Astronomical Society
+      - Ian Ridpath
+      - The New York Times
+      - Carl Sagan
+      - Ann Druyan
+      - Curlie
+      - National High Magnetic Field Laboratory
+      - Paris Observatory
+      - Template talk:Comets
+      - Comet nucleus
+      - Coma (cometary)
+      - Comet tail
+      - Antitail
+      - Comet dust
+      - Meteor shower
+      - List of periodic comets
+      - List of numbered comets
+      - Lost comet
+      - List of long-period comets
+      - List of Halley-type comets
+      - Jupiter-family comet
+      - Active asteroid
+      - List of non-periodic comets
+      - List of near-parabolic comets
+      - List of hyperbolic comets
+      - List of comets with no meaningful orbit
+      - Great comet
+      - Sungrazing comet
+      - Kreutz sungrazer
+      - Extinct comet
+      - Exocomet
+      - Interstellar object
+      - Naming of comets
+      - Observational history of comets
+      - Centaur (minor planet)
+      - List of comets discovered by the LINEAR project
+      - Extraterrestrial atmosphere
+      - Oort cloud
+      - Small Solar System body
+      - Asteroid
+      - List of missions to comets
+      - List of comets visited by spacecraft
+      - C/2023 P1 (Nishimura)
+      - C/2023 E1 (ATLAS)
+      - C/2023 A3 (Tsuchinshan–ATLAS)
+      - C/2022 E3 (ZTF)
+      - C/2021 O3 (PanSTARRS)
+      - C/2021 J1 (Maury-Attard)
+      - C/2021 A1 (Leonard)
+      - C/2020 F8 (SWAN)
+      - C/2020 F5 (MASTER)
+      - Comet NEOWISE
+      - C/2019 Y4 (ATLAS)
+      - C/2019 Y1 (ATLAS)
+      - C/2019 U6 (Lemmon)
+      - 2I/Borisov
+      - C/2018 Y1 (Iwamoto)
+      - C/2018 C2 (Lemmon)
+      - C/2017 U7
+      - C/2017 K2 (PanSTARRS)
+      - C/2016 U1 (NEOWISE)
+      - C/2015 V2 (Johnson)
+      - C/2015 G2 (MASTER)
+      - C/2015 ER61 (PanSTARRS)
+      - C/2014 UN271 (Bernardinelli–Bernstein)
+      - C/2014 Q2 (Lovejoy)
+      - C/2014 Q1 (PanSTARRS)
+      - Antimatter comet
+      - Comets in fiction
+      - Comet vintages
+      - Lists of comets
+      - List of numbered comets
+      - Halley's Comet
+      - Comet Encke
+      - Biela's Comet
+      - 4P/Faye
+      - 5D/Brorsen
+      - 6P/d'Arrest
+      - 7P/Pons–Winnecke
+      - 8P/Tuttle
+      - Tempel 1
+      - 10P/Tempel
+      - 11P/Tempel–Swift–LINEAR
+      - 12P/Pons–Brooks
+      - 13P/Olbers
+      - 14P/Wolf
+      - 15P/Finlay
+      - 16P/Brooks
+      - Comet Holmes
+      - 18D/Perrine–Mrkos
+      - 19P/Borrelly
+      - 20D/Westphal
+      - 21P/Giacobini–Zinner
+      - 22P/Kopff
+      - 23P/Brorsen–Metcalf
+      - 24P/Schaumasse
+      - 25D/Neujmin
+      - 26P/Grigg–Skjellerup
+      - 27P/Crommelin
+      - 28P/Neujmin
+      - 29P/Schwassmann–Wachmann
+      - 30P/Reinmuth
+      - 31P/Schwassmann–Wachmann
+      - 32P/Comas Solà
+      - 33P/Daniel
+      - 34D/Gale
+      - 35P/Herschel–Rigollet
+      - 36P/Whipple
+      - 37P/Forbes
+      - 38P/Stephan–Oterma
+      - 39P/Oterma
+      - 40P/Väisälä
+      - 41P/Tuttle–Giacobini–Kresák
+      - 42P/Neujmin
+      - 43P/Wolf–Harrington
+      - 44P/Reinmuth
+      - 45P/Honda–Mrkos–Pajdušáková
+      - 46P/Wirtanen
+      - 47P/Ashbrook–Jackson
+      - 48P/Johnson
+      - 49P/Arend–Rigaux
+      - 50P/Arend
+      - 51P/Harrington
+      - 52P/Harrington–Abell
+      - 53P/Van Biesbroeck
+      - 54P/de Vico–Swift–NEAT
+      - 55P/Tempel–Tuttle
+      - 56P/Slaughter–Burnham
+      - 57P/du Toit–Neujmin–Delporte
+      - 58P/Jackson–Neujmin
+      - 59P/Kearns–Kwee
+      - 60P/Tsuchinshan
+      - 61P/Shajn–Schaldach
+      - 62P/Tsuchinshan
+      - 63P/Wild
+      - 64P/Swift–Gehrels
+      - 65P/Gunn
+      - 66P/du Toit
+      - 67P/Churyumov–Gerasimenko
+      - 68P/Klemola
+      - 69P/Taylor
+      - 70P/Kojima
+      - 71P/Clark
+      - 72P/Denning–Fujikawa
+      - 73P/Schwassmann–Wachmann
+      - 74P/Smirnova–Chernykh
+      - 75D/Kohoutek
+      - 76P/West–Kohoutek–Ikemura
+      - 77P/Longmore
+      - 78P/Gehrels
+      - 79P/du Toit–Hartley
+      - 80P/Peters–Hartley
+      - 81P/Wild
+      - 82P/Gehrels
+      - 83D/Russell
+      - 84P/Giclas
+      - 85D/Boethin
+      - 88P/Howell
+      - 92P/Sanguin
+      - 96P/Machholz
+      - 97P/Metcalf–Brewington
+      - 103P/Hartley
+      - 4015 Wilson–Harrington
+      - 108P/Ciffréo
+      - Comet Swift–Tuttle
+      - 122P/de Vico
+      - 126P/IRAS
+      - 141P/Machholz
+      - 144P/Kushida
+      - 147P/Kushida–Muramatsu
+      - 153P/Ikeya–Zhang
+      - 156P/Russell–LINEAR
+      - 161P/Hartley–IRAS
+      - 168P/Hergenrother
+      - 169P/NEAT
+      - 177P/Barnard
+      - 178P/Hug–Bell
+      - 205P/Giacobini
+      - 209P/LINEAR
+      - 238P/Read
+      - 246P/NEAT
+      - 252P/LINEAR
+      - 255P/Levy
+      - 273P/Pons–Gambart
+      - 289P/Blanpain
+      - 311P/PanSTARRS
+      - 322P/SOHO
+      - 323P/SOHO
+      - 332P/Ikeya–Murakami
+      - 333P/LINEAR
+      - 354P/LINEAR
+      - (457175) 2008 GO98
+      - 460P/PanSTARRS
+      - Asteroid
+      - 596 Scheila
+      - 2060 Chiron
+      - 4015 Wilson–Harrington
+      - 7968 Elst–Pizarro
+      - 165P/LINEAR
+      - 166P/NEAT
+      - 167P/CINEOS
+      - 60558 Echeclus
+      - 118401 LINEAR
+      - 238P/Read
+      - 259P/Garradd
+      - 311P/PanSTARRS
+      - 324P/La Sagra
+      - 331P/Gibbs
+      - 354P/LINEAR
+      - 358P/PANSTARRS
+      - P/2013 R3 (Catalina-PANSTARRS)
+      - (300163) 2006 VW139
+      - Lost comet
+      - 11P/Tempel–Swift–LINEAR
+      - 15P/Finlay
+      - Comet Holmes
+      - 27P/Crommelin
+      - 54P/de Vico–Swift–NEAT
+      - 55P/Tempel–Tuttle
+      - 57P/du Toit–Neujmin–Delporte
+      - 69P/Taylor
+      - 72P/Denning–Fujikawa
+      - 80P/Peters–Hartley
+      - 97P/Metcalf–Brewington
+      - 4015 Wilson–Harrington
+      - 113P/Spitaler
+      - 122P/de Vico
+      - 157P/Tritton
+      - 177P/Barnard
+      - 205P/Giacobini
+      - 206P/Barnard–Boattini
+      - 226P/Pigott–LINEAR–Kowalski
+      - 271P/van Houten–Lemmon
+      - 289P/Blanpain
+      - Biela's Comet
+      - Comet Shoemaker–Levy 9
+      - Lexell's Comet
+      - 5D/Brorsen
+      - 18D/Perrine–Mrkos
+      - 20D/Westphal
+      - 25D/Neujmin
+      - 34D/Gale
+      - 75D/Kohoutek
+      - 83D/Russell
+      - 85D/Boethin
+      - List of minor planets and comets visited by spacecraft
+      - 21P/Giacobini–Zinner
+      - Halley's Comet
+      - 26P/Grigg–Skjellerup
+      - 19P/Borrelly
+      - 81P/Wild
+      - Tempel 1
+      - Comet McNaught
+      - 103P/Hartley
+      - 67P/Churyumov–Gerasimenko
+      - List of near-parabolic comets
+      - Caesar's Comet
+      - X/1106 C1
+      - Great Comet of 1264
+      - Great Comet of 1402
+      - Great Comet of 1472
+      - Great Comet of 1577
+      - C/1652 Y1
+      - Great Comet of 1680
+      - C/1702 H1
+      - Comet of 1729
+      - Great Comet of 1744
+      - C/1760 A1
+      - C/1769 P1
+      - C/1807 R1
+      - Great Comet of 1811
+      - Great Comet of 1819
+      - Great Comet of 1823
+      - Great Comet of 1843
+      - C/1847 T1
+      - Comet Donati
+      - C/1861 G1 (Thatcher)
+      - C/1861 J1
+      - C/1865 B1
+      - X/1872 X1
+      - C/1874 H1
+      - C/1881 K1
+      - Great Comet of 1882
+      - Great Southern Comet of 1887
+      - Great Comet of 1901
+      - Great January Comet of 1910
+      - C/1911 O1
+      - C/1911 S3
+      - Comet Skjellerup–Maristany
+      - C/1931 P1 (Ryves)
+      - C/1941 B2 (de Kock-Paraskevopoulos)
+      - C/1947 X1 (Southern Comet)
+      - C/1948 V1
+      - Comet Arend–Roland
+      - C/1957 P1 (Mrkos)
+      - de:C/1961 O1 (Wilson-Hubbard)
+      - Comet Humason
+      - C/1962 C1 (Seki-Lines)
+      - C/1963 A1 (Ikeya)
+      - Comet Pereyra
+      - C/1964 N1 (Ikeya)
+      - Comet Ikeya–Seki
+      - de:C/1969 T1 (Tago-Sato-Kosaka)
+      - Comet Bennett
+      - Comet White–Ortiz–Bolelli
+      - Comet Kohoutek
+      - Comet West
+      - C/1980 E1 (Bowell)
+      - Comet IRAS–Araki–Alcock
+      - C/1989 W1 (Aarseth-Brewington)
+      - C/1989 X1 (Austin)
+      - Comet Skorichenko–George
+      - C/1990 K1 (Levy)
+      - C/1992 J1 (Spacewatch)
+      - Comet McNaught–Russell
+      - Comet Hale–Bopp
+      - Comet Hyakutake
+      - Comet Zhu–Balam
+      - Comet Stonehouse
+      - C/1999 F1 (Catalina)
+      - C/1999 S4 (LINEAR)
+      - C/2000 WM1 (LINEAR)
+      - C/2001 A2 (LINEAR)
+      - C/2001 OG108
+      - C/2001 Q4 (NEAT)
+      - C/2002 T7
+      - C/2002 V1 (NEAT)
+      - C/2004 F4 (Bradfield)
+      - Comet Machholz
+      - Comet Pojmański
+      - C/2006 M4 (SWAN)
+      - Comet McNaught
+      - C/2007 E2 (Lovejoy)
+      - C/2007 F1
+      - Comet Lulin
+      - C/2007 Q3 (Siding Spring)
+      - C/2007 W1 (Boattini)
+      - Comet Yi–SWAN
+      - C/2009 R1 (McNaught)
+      - C/2010 X1 (Elenin)
+      - C/2011 L4
+      - C/2011 W3 (Lovejoy)
+      - C/2012 E2 (SWAN)
+      - C/2012 F6 (Lemmon)
+      - C/2012 K1
+      - Comet ISON
+      - C/2013 A1 (Siding Spring)
+      - C/2013 R1
+      - C/2013 US10 (Catalina)
+      - C/2013 V5 (Oukaimeden)
+      - C/2014 E2 (Jacques)
+      - C/2014 Q1 (PanSTARRS)
+      - C/2014 Q2 (Lovejoy)
+      - C/2015 ER61 (PanSTARRS)
+      - C/2015 V2 (Johnson)
+      - C/2017 K2 (PanSTARRS)
+      - ʻOumuamua
+      - C/2018 Y1 (Iwamoto)
+      - 2I/Borisov
+      - C/2019 U6 (Lemmon)
+      - C/2019 Y4 (ATLAS)
+      - C/2020 F3 (NEOWISE)
+      - C/2020 F8 (SWAN)
+      - C/2021 A1 (Leonard)
+      - C/2022 E3 (ZTF)
+      - C/2023 P1 (Nishimura)
+      - C/1989 W1 (Aarseth-Brewington)
+      - Comet Arend–Roland
+      - C/1989 X1 (Austin)
+      - C/1911 S3
+      - Comet Bennett
+      - C/2007 W1 (Boattini)
+      - 2I/Borisov
+      - C/1980 E1 (Bowell)
+      - C/2004 F4 (Bradfield)
+      - C/1911 O1
+      - Catalina Sky Survey
+      - C/1999 F1 (Catalina)
+      - C/2013 US10
+      - C/1941 B2 (de Kock-Paraskevopoulos)
+      - C/1948 V1
+      - C/2010 X1 (Elenin)
+      - Comet Hale–Bopp
+      - Comet Humason
+      - Comet Hyakutake
+      - Kaoru Ikeya
+      - C/1963 A1 (Ikeya)
+      - C/1964 N1 (Ikeya)
+      - Comet Ikeya–Seki
+      - Comet IRAS–Araki–Alcock
+      - Comet ISON
+      - C/2018 Y1 (Iwamoto)
+      - C/2014 E2 (Jacques)
+      - C/2015 V2 (Johnson)
+      - Comet Kohoutek
+      - Mount Lemmon Observatory
+      - C/2012 F6 (Lemmon)
+      - C/2018 C2 (Lemmon)
+      - C/2019 U6 (Lemmon)
+      - C/2021 A1 (Leonard)
+      - C/1990 K1 (Levy)
+      - Lincoln Near-Earth Asteroid Research
+      - C/1999 S4 (LINEAR)
+      - C/2000 WM1 (LINEAR)
+      - C/2001 A2 (LINEAR)
+      - C/2002 T7
+      - Lowell Observatory Near-Earth-Object Search
+      - C/2001 OG108
+      - C/2007 F1
+      - Terry Lovejoy
+      - C/2007 E2 (Lovejoy)
+      - C/2011 W3 (Lovejoy)
+      - C/2013 R1
+      - C/2014 Q2 (Lovejoy)
+      - Comet Lulin
+      - Comet Machholz
+      - Robert H. McNaught
+      - Comet McNaught
+      - C/2009 R1 (McNaught)
+      - Comet McNaught–Russell
+      - C/1957 P1 (Mrkos)
+      - Near-Earth Asteroid Tracking
+      - C/2001 Q4 (NEAT)
+      - C/2002 V1 (NEAT)
+      - Comet NEOWISE
+      - C/2023 P1 (Nishimura)
+      - C/2013 V5 (Oukaimeden)
+      - ʻOumuamua
+      - Pan-STARRS
+      - C/2011 L4
+      - C/2012 K1
+      - 311P/PanSTARRS
+      - C/2014 Q1 (PanSTARRS)
+      - C/2015 ER61 (PanSTARRS)
+      - C/2017 K2
+      - Comet Pereyra
+      - Comet Pojmański
+      - Ryves Comet
+      - C/1962 C1 (Seki-Lines)
+      - Siding Spring Observatory
+      - C/2007 Q3 (Siding Spring)
+      - C/2013 A1 (Siding Spring)
+      - Comet Skjellerup–Maristany
+      - Comet Skorichenko–George
+      - C/1947 X1 (Southern Comet)
+      - C/1992 J1 (Spacewatch)
+      - Comet Stonehouse
+      - Solar and Heliospheric Observatory
+      - C/2006 M4 (SWAN)
+      - C/2012 E2 (SWAN)
+      - C/2020 F8 (SWAN)
+      - de:C/1969 T1 (Tago-Sato-Kosaka)
+      - Comet West
+      - Comet White–Ortiz–Bolelli
+      - de:C/1961 O1 (Wilson-Hubbard)
+      - Comet Yi–SWAN
+      - Comet Zhu–Balam
+      - C/2022 E3 (ZTF)
+      - Template talk:Meteorites
+      - Meteorite
+      - Meteoritics
+      - Meteorite
+      - Glossary of meteoritics
+      - Meteorite fall
+      - Bolide
+      - Impactite
+      - Meteorite fall statistics
+      - Strewn field
+      - Meteorite find
+      - Meteorite hunting
+      - List of largest meteorites on Earth
+      - Micrometeorite
+      - Meteorite
+      - Parent body
+      - Meteorite classification
+      - Chondrite
+      - Carbonaceous chondrite
+      - CI chondrite
+      - Enstatite chondrite
+      - Chondrite
+      - Ordinary chondrite
+      - H chondrite
+      - L chondrite
+      - LL chondrite
+      - Chondrite
+      - Achondrite
+      - Primitive achondrite
+      - Acapulcoite
+      - Brachinite
+      - IAB meteorites
+      - IIICD meteorite
+      - Lodranite
+      - Ureilite
+      - Winonaite
+      - Asteroidal achondrite
+      - Angrite
+      - Aubrite
+      - HED meteorite
+      - Diogenite
+      - Eucrite
+      - Howardite
+      - Lunar meteorite
+      - Impact breccia
+      - Mare basalts
+      - List of lunar meteorites
+      - Martian meteorite
+      - Northwest Africa 7034
+      - Northwest Africa 7034
+      - Chassignites
+      - Kaidun meteorite
+      - Nakhlite
+      - Orthopyroxenite
+      - Allan Hills 84001
+      - Martian meteorite
+      - List of Martian meteorites
+      - List of meteorites on Mars
+      - Iron meteorite
+      - IIAB meteorites
+      - IIE iron meteorite
+      - IIG meteorite
+      - IVB meteorite
+      - Stony-iron meteorite
+      - Mesosiderite
+      - Pallasite
+      - Pallasite main group
+      - Eagle Station group
+      - Pyroxene pallasite grouplet
+      - Ataxite
+      - Hexahedrite
+      - Octahedrite
+      - Amphoterite
+      - Nonmagmatic meteorite
+      - Mineralogy
+      - Petrology
+      - Meteorite shock stage
+      - Total known weight
+      - Meteorite weathering
+      - Chondrule
+      - Presolar grains
+      - List of meteorite minerals
+      - Calcium–aluminium-rich inclusion
+      - Extraterrestrial materials
+      - Meteoric iron
+      - Neumann lines
+      - Widmanstätten pattern
+      - CI1 fossils
+      - Asteroid
+      - Atmospheric entry
+      - Impact event
+      - Meteor
+      - Meteor shower
+      - Meteoroid
+      - Near-Earth object
+      - Template talk:Solar System
+      - Solar System
+      - Sun
+      - Mercury (planet)
+      - Venus
+      - Earth
+      - Mars
+      - Ceres (dwarf planet)
+      - Jupiter
+      - Saturn
+      - Uranus
+      - Neptune
+      - Pluto
+      - Haumea
+      - 50000 Quaoar
+      - Makemake
+      - 225088 Gonggong
+      - Eris (dwarf planet)
+      - 90377 Sedna
+      - Planet
+      - Dwarf planet
+      - Terrestrial planet
+      - Mercury (planet)
+      - Venus
+      - Earth
+      - Mars
+      - Giant planet
+      - Gas giant
+      - Jupiter
+      - Saturn
+      - Ice giant
+      - Uranus
+      - Neptune
+      - Dwarf planet
+      - Ceres (dwarf planet)
+      - Pluto
+      - Haumea
+      - 50000 Quaoar
+      - Makemake
+      - 225088 Gonggong
+      - Eris (dwarf planet)
+      - 90377 Sedna
+      - 90482 Orcus
+      - Natural satellite
+      - Moon
+      - Claimed moons of Earth
+      - Moons of Mars
+      - Phobos (moon)
+      - Deimos (moon)
+      - Moons of Jupiter
+      - Ganymede (moon)
+      - Callisto (moon)
+      - Io (moon)
+      - Europa (moon)
+      - Moons of Jupiter
+      - Moons of Saturn
+      - Titan (moon)
+      - Rhea (moon)
+      - Iapetus (moon)
+      - Dione (moon)
+      - Tethys (moon)
+      - Enceladus
+      - Mimas (moon)
+      - Hyperion (moon)
+      - Phoebe (moon)
+      - Moons of Saturn
+      - Moons of Uranus
+      - Titania (moon)
+      - Oberon (moon)
+      - Umbriel (moon)
+      - Ariel (moon)
+      - Miranda (moon)
+      - Moons of Uranus
+      - Moons of Neptune
+      - Triton (moon)
+      - Proteus (moon)
+      - Nereid (moon)
+      - Moons of Neptune
+      - Moons of Pluto
+      - Charon (moon)
+      - Nix (moon)
+      - Hydra (moon)
+      - Kerberos (moon)
+      - Styx (moon)
+      - Moons of Haumea
+      - Hiʻiaka (moon)
+      - Namaka (moon)
+      - 50000 Quaoar
+      - Weywot
+      - Makemake
+      - S/2015 (136472) 1
+      - 225088 Gonggong
+      - Xiangliu (moon)
+      - Eris (dwarf planet)
+      - Dysnomia (moon)
+      - 90482 Orcus
+      - Vanth (moon)
+      - Ring system
+      - Rings of Jupiter
+      - Rings of Saturn
+      - Rings of Rhea
+      - Rings of Chariklo
+      - 2060 Chiron
+      - Rings of Uranus
+      - Rings of Neptune
+      - Haumea
+      - 50000 Quaoar
+      - Small Solar System body
+      - Damocloid
+      - Meteoroid
+      - Minor planet
+      - Meanings of minor-planet names
+      - Minor-planet moon
+      - Planetesimal
+      - List of Mercury-crossing minor planets
+      - List of Venus-crossing minor planets
+      - List of Earth-crossing minor planets
+      - List of Mars-crossing minor planets
+      - List of Jupiter-crossing minor planets
+      - List of Saturn-crossing minor planets
+      - List of Uranus-crossing minor planets
+      - List of Neptune-crossing minor planets
+      - Trojan (celestial body)
+      - 2013 ND15
+      - Earth trojan
+      - Mars trojan
+      - Jupiter trojan
+      - List of Jupiter trojans (Trojan camp)
+      - List of Jupiter trojans (Greek camp)
+      - Co-orbital configuration
+      - Uranus trojan
+      - Neptune trojan
+      - Near-Earth object
+      - Asteroid belt
+      - Asteroid
+      - Ceres (dwarf planet)
+      - 4 Vesta
+      - 2 Pallas
+      - 10 Hygiea
+      - Active asteroid
+      - List of minor planets: 1–1000
+      - Asteroid family
+      - Potentially hazardous asteroid
+      - List of exceptional asteroids
+      - Kirkwood gap
+      - Centaur (small Solar System body)
+      - Neptune trojan
+      - Trans-Neptunian object
+      - Kuiper belt
+      - Classical Kuiper belt object
+      - Plutino
+      - Detached object
+      - Sednoid
+      - Scattered disc
+      - Oort cloud
+      - Hills cloud
+      - List of hypothetical Solar System objects
+      - Five-planet Nice model
+      - Nemesis (hypothetical star)
+      - Phaeton (hypothetical planet)
+      - Planet Nine
+      - Planet V
+      - Planets beyond Neptune
+      - Subsatellite
+      - Theia (planet)
+      - Tyche (hypothetical planet)
+      - Vulcan (hypothetical planet)
+      - Vulcanoid
+      - Space exploration
+      - Outline of space exploration
+      - Space colonization
+      - Discovery and exploration of the Solar System
+      - Astronomy
+      - Historical models of the Solar System
+      - Timeline of discovery of Solar System planets and their moons
+      - Space probe
+      - Timeline of Solar System exploration
+      - List of Solar System probes
+      - Human spaceflight
+      - Space station
+      - List of crewed spacecraft
+      - Human spaceflight programs
+      - Exploration of Mercury
+      - Observations and explorations of Venus
+      - Exploration of the Moon
+      - Lunar resources
+      - Exploration of Mars
+      - Ceres (dwarf planet)
+      - Asteroid
+      - Asteroid mining
+      - List of missions to comets
+      - Exploration of Jupiter
+      - Exploration of Saturn
+      - Exploration of Uranus
+      - Exploration of Neptune
+      - Exploration of Pluto
+      - Deep space exploration
+      - Formation and evolution of the Solar System
+      - Star formation
+      - Accretion (astrophysics)
+      - Accretion disk
+      - Accretion disk
+      - Circumplanetary disk
+      - Circumstellar disc
+      - Circumstellar envelope
+      - Coatlicue (star)
+      - Cosmic dust
+      - Debris disk
+      - Detached object
+      - Exoplanetary Circumstellar Environments and Disk Explorer
+      - Exozodiacal dust
+      - Extraterrestrial materials
+      - Extraterrestrial sample curation
+      - Sample-return mission
+      - Frost line (astrophysics)
+      - Giant-impact hypothesis
+      - Gravitational collapse
+      - Hills cloud
+      - Hill sphere
+      - Interplanetary dust cloud
+      - Interplanetary medium
+      - Interstellar cloud
+      - Interstellar medium
+      - Outer space
+      - Kuiper belt
+      - Kuiper cliff
+      - Molecular cloud
+      - Nebular hypothesis
+      - Oort cloud
+      - Outer space
+      - Planet
+      - Disrupted planet
+      - Planetary migration
+      - Planetary system
+      - Planetesimal
+      - Nebular hypothesis
+      - Stellar collision
+      - Protoplanetary disk
+      - Ring system
+      - Roche limit
+      - Roche limit
+      - Rubble pile
+      - Scattered disc
+      - Lists of comets
+      - List of possible dwarf planets
+      - List of gravitationally rounded objects of the Solar System
+      - List of minor planets
+      - List of natural satellites
+      - Solar System model
+      - List of Solar System objects
+      - List of Solar System objects by size
+      - Timeline of discovery of Solar System planets and their moons
+      - List of interstellar and circumstellar molecules
+      - Double planet
+      - Lagrangian points
+      - Moonlets
+      - Syzygy (astronomy)
+      - Tidal locking
+      - Outline of the Solar System
+      - Solar System
+      - Local Interstellar Cloud
+      - Local Bubble
+      - Gould Belt
+      - Orion Arm
+      - Milky Way
+      - Satellite galaxies of the Milky Way
+      - Local Group
+      - Local Sheet
+      - Virgo Supercluster
+      - Laniakea Supercluster
+      - Local Hole
+      - Observable universe
+      - Universe
+      - Template talk:Small Solar System bodies
+      - Small Solar System body
+      - Minor planet
+      - Minor-planet designation
+      - List of minor-planet groups
+      - List of minor planets
+      - Minor-planet moon
+      - Meanings of minor-planet names
+      - Asteroid
+      - Active asteroid
+      - Aten asteroid
+      - Asteroid belt
+      - Asteroid family
+      - Jupiter trojan
+      - Near-Earth object
+      - Asteroid spectral types
+      - Distant minor planet
+      - Centaur (small Solar System body)
+      - Neptune trojan
+      - Damocloid
+      - Trans-Neptunian object
+      - Detached object
+      - Kuiper belt
+      - Oort cloud
+      - Scattered disc
+      - Extinct comet
+      - Great comet
+      - List of Halley-type comets
+      - List of hyperbolic comets
+      - List of long-period comets
+      - Lost comet
+      - List of near-parabolic comets
+      - List of periodic comets
+      - Sungrazing comet
+      - Cosmic dust
+      - Meteoroid
+      - Space debris
+      - q:Comet
+      - b:Solar System/Comets
+
+Word: supernova
+  Synset: supernova.n.01
+    Definition: a star that explodes and becomes extremely luminous in the process
+    Wikipedia URL: https://en.wikipedia.org/wiki/supernova
+    Similar Concepts from Wikipedia:
+      - Visit the main page [z]
+      - Supernova – Afrikaans
+      - ሱፐርኖቫ – Amharic
+      - अधिनवतारा – Angika
+      - مستعر أعظم – Arabic
+      - Supernova – Aragonese
+      - Supernova – Asturian
+      - İfrat yeni ulduz – Azerbaijani
+      - অতিনবতারা – Bangla
+      - Звышновая зорка – Belarusian
+      - सुपरनोवा – Bhojpuri
+      - Свръхнова – Bulgarian
+      - Supernova – Bosnian
+      - Supernova – Catalan
+      - Вышкайсăр çĕнĕ çăлтăр – Chuvash
+      - Supernova – Czech
+      - Supernova – Danish
+      - Supernova – German
+      - Supernoova – Estonian
+      - Υπερκαινοφανής αστέρας – Greek
+      - Supernova – Spanish
+      - Supernovao – Esperanto
+      - Supernoba – Basque
+      - ابرنواختر – Persian
+      - Supernova – French
+      - Supernova – Western Frisian
+      - Supernova – Friulian
+      - Ollnóva – Irish
+      - Supernova – Galician
+      - 초신성 – Korean
+      - Գերնոր աստղեր – Armenian
+      - महानोवा – Hindi
+      - Supernova – Croatian
+      - Supernovo – Ido
+      - Supernova – Indonesian
+      - Supernova – Interlingua
+      - Sprengistjarna – Icelandic
+      - Supernova – Italian
+      - סופרנובה – Hebrew
+      - Supernova – Javanese
+      - ಸೂಪರ್‌ನೋವಾ – Kannada
+      - ზეახალი ვარსკვლავი – Georgian
+      - Ғаламатжұлдыз – Kazakh
+      - Sipènova – Haitian Creole
+      - Sipèrnova – Guianan Creole
+      - Supernova – Latin
+      - Pārnova – Latvian
+      - Supernova – Luxembourgish
+      - Supernova – Lithuanian
+      - Supernova – Limburgish
+      - Szupernóva – Hungarian
+      - Супернова – Macedonian
+      - Kinta-mazavabe – Malagasy
+      - സൂപ്പർനോവ – Malayalam
+      - अतिनवतारा – Marathi
+      - სუპერნოვა – Mingrelian
+      - سوبرنوڤا – Egyptian Arabic
+      - Supernova – Malay
+      - စူပါနိုဗာ – Burmese
+      - Supernova – Dutch
+      - 超新星 – Japanese
+      - Supernova – Norwegian Bokmål
+      - Supernova – Norwegian Nynorsk
+      - Supernòva – Occitan
+      - Supernova – Uzbek
+      - ਸੁਪਰਨੋਵਾ – Punjabi
+      - سپرنووا – Western Punjabi
+      - د ستورو لویه چاودنه – Pashto
+      - Syuupanuova – Jamaican Creole English
+      - Supernowa – Polish
+      - Supernova – Portuguese
+      - Supernovă – Romanian
+      - Сверхновая звезда – Russian
+      - Yjet Supernova – Albanian
+      - Supernova – Sicilian
+      - සුපර්නෝවා – Sinhala
+      - Supernova – Simple English
+      - سپر نووا – Sindhi
+      - Supernova – Slovak
+      - Supernova – Slovenian
+      - نوێبوونەوەی مەزن – Central Kurdish
+      - Supernova – Serbian
+      - Supernova – Serbo-Croatian
+      - Supernova – Sundanese
+      - Supernova – Finnish
+      - Supernova – Swedish
+      - Supernoba – Tagalog
+      - மீயொளிர் விண்மீன் வெடிப்பு – Tamil
+      - Үтә яңа йолдыз – Tatar
+      - సూపర్ నోవా – Telugu
+      - มหานวดารา – Thai
+      - Süpernova – Turkish
+      - Наднова – Ukrainian
+      - سپر نووا – Urdu
+      - Siêu tân tinh – Vietnamese
+      - 超新星 – Literary Chinese
+      - Supernoba – Waray
+      - 超新星 – Wu
+      - 超新星 – Cantonese
+      - 超新星 – Chinese
+      - View the content page [c]
+      - Discuss improvements to the content page [t]
+      - Supernova (disambiguation)
+      - SN 1994D
+      - Type Ia supernova
+      - NGC 4526
+      - Explosion
+      - Star
+      - Stellar evolution
+      - Massive star
+      - White dwarf
+      - Nuclear fusion
+      - Neutron star
+      - Black hole
+      - Diffuse nebula
+      - Luminosity
+      - Galaxy
+      - Milky Way
+      - Kepler's Supernova
+      - Tycho's Supernova
+      - Naked eye
+      - Supernova remnant
+      - SN 1987A
+      - Blue supergiant star
+      - Large Magellanic Cloud
+      - Satellite galaxy
+      - White dwarf
+      - Gravitational collapse
+      - Stellar core
+      - Thermal runaway
+      - Binary star
+      - Accretion (astrophysics)
+      - Stellar merger
+      - Stellar evolution
+      - Alpha process
+      - Metallicity
+      - Solar mass
+      - Speed of light
+      - Shock wave
+      - Interstellar medium
+      - Chemical element
+      - Oxygen
+      - Rubidium
+      - Star formation
+      - Cosmic ray
+      - Gravitational wave
+      - Plural
+      - Latin language
+      - Nova
+      - Walter Baade
+      - Fritz Zwicky
+      - Knut Lundmark
+      - History of supernova observation
+      - Billion
+      - Galaxy
+      - Binary star system
+      - White dwarf
+      - Indian subcontinent
+      - Burzahom archaeological site
+      - Kashmir
+      - Before Christ
+      - SN 185
+      - Chinese astronomy
+      - SN 1006
+      - Lupus (constellation)
+      - SN 1054
+      - Crab Nebula
+      - SN 1572
+      - SN 1604
+      - Europe
+      - Aristotle
+      - Johannes Kepler
+      - Tycho Brahe
+      - Cassiopeia A
+      - G1.9+0.3
+      - Cassiopeia A
+      - Extinction (astronomy)
+      - Light echo
+      - Crab Nebula
+      - Pulsar wind nebula
+      - 1054 supernova
+      - SN 185
+      - Centaurus
+      - Apparent magnitude
+      - SN 386
+      - Sagittarius (constellation)
+      - SN 393
+      - Scorpius
+      - SN 1006
+      - Lupus (constellation)
+      - Supernova remnant
+      - SN 1054
+      - Taurus (constellation)
+      - SN 1181
+      - Cassiopeia (constellation)
+      - SN 1572
+      - Cassiopeia (constellation)
+      - Kepler's Supernova
+      - Ophiuchus
+      - Cassiopeia A
+      - Cassiopeia (constellation)
+      - G1.9+0.3
+      - Sagittarius (constellation)
+      - SN 1885A
+      - The Andromeda Galaxy
+      - SN 1987A
+      - Large Magellanic Cloud
+      - Telescope
+      - SN 1885A
+      - Andromeda Galaxy
+      - SN 1895B
+      - NGC 5253
+      - Nova
+      - Walter Baade
+      - Caltech
+      - Knut Lundmark
+      - Rudolph Minkowski
+      - Fritz Zwicky
+      - Standard candles
+      - Accelerating universe
+      - Nebula
+      - RX J0852.0-4622
+      - Gamma ray
+      - Titanium-44
+      - ASASSN-15lh
+      - Light-year
+      - Solar luminosity
+      - Bolometric luminosity
+      - SN 2013fs
+      - Palomar Transient Factory
+      - Spiral galaxy
+      - NGC 7610
+      - SN 2016gkg
+      - Rosario
+      - Hubble Space Telescope
+      - Alex Filippenko
+      - Supernova remnant
+      - Large Magellanic Cloud
+      - Standard candle
+      - Amateur astronomy
+      - Optical telescope
+      - Charge-coupled device
+      - Katzman Automatic Imaging Telescope
+      - Supernova Early Warning System
+      - Neutrino detector
+      - Neutrino
+      - Subatomic particle
+      - Carina Nebula
+      - Expansion of the universe
+      - Emission spectrum
+      - Doppler shift
+      - Redshift
+      - Hubble diagram
+      - Hubble curve
+      - X-ray
+      - Infrared
+      - Optical
+      - Johannes Kepler
+      - Supernova remnant
+      - SN 1604
+      - International Astronomical Union
+      - Central Bureau for Astronomical Telegrams
+      - Light curve
+      - Absorption line
+      - Chemical element
+      - Astronomical spectroscopy
+      - Hydrogen
+      - Balmer series
+      - Type Ia supernova
+      - Ionization
+      - Silicon
+      - Nanometre
+      - Type Ib and Ic supernovae
+      - Helium
+      - Type II supernova
+      - Type II supernova
+      - Type II supernova
+      - Type II supernova
+      - Type II supernova
+      - Type II supernova
+      - Type II supernova
+      - NGC 2525
+      - Silicon
+      - SN 2008ha
+      - SN 2002cx
+      - Calcium-rich supernova
+      - Helium
+      - Hydrogen
+      - Type II supernova
+      - Emission line
+      - Kilometres per second
+      - SN 2005gl
+      - SN 1993J
+      - Type IIb supernova
+      - SN 1961i
+      - NGC 4303
+      - NGC 3003
+      - Hydrogen absorption line
+      - Hydrogen emission line
+      - SN 1961V
+      - NGC 1058
+      - Supernova impostor
+      - Eta Carinae
+      - Luminous blue variable
+      - NGC 1365
+      - Taxonomy (general)
+      - Type Ia supernova
+      - Carbon detonation
+      - Carbon burning process
+      - Thermal runaway
+      - Accretion (astrophysics)
+      - Cosmic distance ladder
+      - Carbon
+      - Oxygen
+      - Chandrasekhar limit
+      - Solar mass
+      - Electron degeneracy pressure
+      - Neutron star
+      - Small Magellanic Cloud
+      - Joule
+      - Gravitational binding energy
+      - Shock wave
+      - Kilometers per second
+      - Absolute magnitude
+      - Stellar evolution
+      - Main sequence
+      - Red giant
+      - Nuclear fusion
+      - Radioactive decay
+      - Nickel
+      - Cobalt
+      - Iron
+      - Differential rotation
+      - Zombie star
+      - Circumstellar disc
+      - HD 74438
+      - IC 2391
+      - Vela constellation
+      - Black hole
+      - Chandrasekhar limit
+      - Electron capture
+      - Pair-instability supernova
+      - Photodisintegration
+      - Electron degeneracy pressure
+      - Degenerate matter
+      - Gravitational collapse
+      - Stellar core
+      - Metallicity
+      - Supergiant
+      - Hypergiant
+      - Eta Carinae
+      - Solar mass
+      - Electron capture supernova
+      - Hypernova
+      - Gamma-ray burst
+      - Supernova neutrinos
+      - Speed of light
+      - Beta decay
+      - Electron neutrino
+      - Supernova neutrinos
+      - Kilometre
+      - Atomic nucleus
+      - Degeneracy pressure
+      - Kelvin
+      - Sun's core
+      - Neutrino oscillation
+      - Thermal radiation
+      - Foe (unit)
+      - Supernova neutrinos
+      - Relativistic jet
+      - Gamma-ray burst
+      - Pair-instability supernova
+      - Photon
+      - Electron
+      - Positron
+      - Type II supernova
+      - SN 1997D
+      - Neon
+      - Magnesium
+      - Super-AGB star
+      - Luminosity
+      - Type Ib and Ic supernovae
+      - X-ray
+      - Stellar wind
+      - Wolf–Rayet stars
+      - Wolf-Rayet star
+      - Wolf-Rayet star
+      - Gamma-ray burst
+      - Magnetar
+      - Super-luminous supernova
+      - Ken'ichi Nomoto
+      - Degenerate matter
+      - Nature Astronomy
+      - SN 2018zd
+      - NGC 2146
+      - Failed supernova
+      - N6946-BH1
+      - NGC 6946
+      - Infrared
+      - SN 1987A
+      - Type II Supernova
+      - Photon
+      - Electronvolt
+      - Isotopes of nickel
+      - Isotopes of cobalt
+      - Messier 61
+      - Photosphere
+      - UBV photometric system
+      - Positron emission
+      - Hypernova
+      - Standard candle
+      - Absolute magnitude
+      - Foe (unit)
+      - Order of magnitude
+      - Pulsar
+      - Crab Nebula
+      - Pulsar
+      - Peculiar velocity
+      - Neutron star formation
+      - Neutrino
+      - Convection
+      - Accretion disk
+      - Electromagnetic radiation
+      - Nucleosynthesis
+      - Kinetic energy
+      - Supernova neutrino
+      - Nickel-56
+      - Silicon-burning process
+      - Radioactive
+      - Cobalt-56
+      - Beta plus decay
+      - Half life
+      - Positron
+      - Foe (unit)
+      - Relativistic jet
+      - Galaxy morphological classification
+      - Irregular galaxy
+      - Starburst galaxy
+      - Elliptical galaxy
+      - Wolf–Rayet star
+      - Helium star
+      - Wolf–Rayet star
+      - Supergiant
+      - Supergiant
+      - Supergiant
+      - Luminous blue variable
+      - Supergiant
+      - Blue supergiant
+      - SN 2010jl
+      - SN 2009ip
+      - WC star
+      - WO star
+      - Failed supernova
+      - Stellar nucleosynthesis
+      - Supernova nucleosynthesis
+      - Alpha element
+      - R-process
+      - Neutron
+      - Neutron star merger
+      - Asymptotic giant branch
+      - S-process
+      - Supernova remnant
+      - Interstellar medium
+      - Adiabatic process
+      - Large Magellanic Cloud
+      - Big Bang
+      - Helium
+      - Lithium
+      - Molecular cloud
+      - Planet
+      - Giant planet
+      - Radioactive isotope
+      - Solar System
+      - Fast radio burst
+      - Magnetar
+      - Cosmic ray
+      - Pion
+      - IC 443
+      - Proton
+      - Gravitational wave
+      - Near-Earth supernova
+      - Biosphere
+      - Rock strata
+      - Iron
+      - Pacific Ocean
+      - Biodiversity
+      - Nutrients
+      - Continental shelves
+      - IK Pegasi
+      - Parsec
+      - List of supernova candidates
+      - Wolf–Rayet nebula
+      - Wolf–Rayet star
+      - Light-year
+      - 2MASS
+      - Spica
+      - Betelgeuse
+      - Antares
+      - VV Cephei
+      - Rho Cassiopeiae
+      - Gamma Velorum
+      - WR 104
+      - U Scorpii
+      - Kilonova
+      - List of supernovae
+      - List of supernova remnants
+      - Quark-nova
+      - Superluminous supernova
+      - Supernovae in fiction
+      - Timeline of white dwarfs, neutron stars, and supernovae
+      - Collapsar
+      - Hypernova
+      - Oxford English Dictionary
+      - Robert Burnham Jr.
+      - Celestial handbook
+      - Astrophysical Journal
+      - D. Reidel
+      - Basic Books
+      - Alicia M. Soderberg
+      - Science (journal)
+      - The Astrophysical Journal
+      - Bulletin of the American Astronomical Society
+      - Proceedings of the National Academy of Sciences
+      - Astrophysics and Space Science
+      - Astronomical Journal
+      - Science (journal)
+      - Nature (journal)
+      - Nature (journal)
+      - Astronomy Now
+      - Nature (journal)
+      - The Astrophysical Journal Letters
+      - The Astrophysical Journal
+      - Jones & Bartlett Learning
+      - ASP Conference Series
+      - Astronomical Society of the Pacific
+      - Kate Scholberg
+      - New Journal of Physics
+      - Kate Scholberg
+      - AIP Conference Proceedings
+      - The Astronomical Journal
+      - Kluwer Academic Publishers
+      - Physical Review D
+      - The Astrophysical Journal
+      - The Astrophysical Journal
+      - Astrophysical Journal Letters
+      - AIP Conference Proceedings
+      - International Astronomical Union
+      - Asiago Astrophysical Observatory
+      - Kluwer Academic Publishers
+      - Lecture Notes in Physics
+      - The Astronomical Journal
+      - The Astrophysical Journal
+      - Macmillan Press
+      - Monthly Notices of the Royal Astronomical Society
+      - The Astrophysical Journal
+      - Astrophysical Journal Letters
+      - Science (journal)
+      - The Astrophysical Journal
+      - Kluwer Academic Publishers
+      - Astronomy and Astrophysics
+      - Astronomy and Astrophysics Letters
+      - Annual Review of Astronomy and Astrophysics
+      - D. Reidel
+      - The Astrophysical Journal
+      - The Astrophysical Journal
+      - Monthly Notices of the Royal Astronomical Society
+      - Nature (journal)
+      - The Astrophysical Journal
+      - Proceedings of the International Astronomical Union
+      - The Astrophysical Journal
+      - Nature (journal)
+      - The Astrophysical Journal Supplement Series
+      - Astrophysical Journal
+      - The Astrophysical Journal
+      - The Astrophysical Journal
+      - Physics Reports
+      - Living Reviews in Relativity
+      - Nature Physics
+      - Astrophysical Journal
+      - The Astrophysical Journal
+      - The Astrophysical Journal
+      - Science (journal)
+      - The Astrophysical Journal Letters
+      - The Astrophysical Journal
+      - ASP Conference Series
+      - Monthly Notices of the Royal Astronomical Society
+      - Monthly Notices of the Royal Astronomical Society
+      - Nature (journal)
+      - W. M. Keck Observatory
+      - RTE News
+      - Press Association
+      - The Astrophysical Journal
+      - Soviet Astronomy Letters
+      - Annual Review of Astronomy and Astrophysics
+      - Astrophysical Journal Letters
+      - Astrophysical Journal
+      - Annual Review of Nuclear and Particle Science
+      - Annual Review of Astronomy and Astrophysics
+      - Monthly Notices of the Royal Astronomical Society
+      - Annual Review of Astronomy & Astrophysics
+      - Astronomy & Astrophysics
+      - Springer Science+Business Media
+      - Astrophysical Journal
+      - Sumner Starrfield
+      - Snežana Stanimirović
+      - The Astrophysical Journal Letters
+      - Massachusetts Institute of Technology
+      - Science (journal)
+      - Nuclear Physics B: Proceedings Supplements
+      - Physical Review Letters
+      - New Astronomy (journal)
+      - Henrik Svensmark
+      - Sky & Telescope
+      - Astrophysical Journal
+      - Selma de Mink
+      - Selma de Mink
+      - Astronomical Society of the Pacific
+      - Publications of the Astronomical Society of the Pacific
+      - Physical Review D
+      - Nature Physics
+      - Sternberg Astronomical Institute
+      - GitHub
+      - International Astronomical Union
+      - Template talk:Supernovae
+      - Type Ia supernova
+      - Type Iax supernova
+      - Type Ib and Ic supernovae
+      - Type II supernova
+      - Hypernova
+      - Superluminous supernova
+      - Pair-instability supernova
+      - Calcium-rich supernovae
+      - Common envelope jets supernova
+      - Carbon detonation
+      - Foe (unit)
+      - Near-Earth supernova
+      - Phillips relationship
+      - Supernova nucleosynthesis
+      - P-process
+      - R-process
+      - Gamma process (astrophysics)
+      - Supernova neutrinos
+      - Failed supernova
+      - Fast blue optical transient
+      - Fast radio burst
+      - Gamma-ray burst
+      - Gravitational wave
+      - Kilonova
+      - Luminous red nova
+      - Micronova
+      - Nova
+      - Pulsar kick
+      - Quark-nova
+      - Soft gamma repeater
+      - Supernova impostor
+      - Pulsational pair-instability supernova
+      - Symbiotic nova
+      - Hypergiant
+      - Yellow hypergiant
+      - Red hypergiant
+      - Luminous blue variable
+      - Supergiant star
+      - Blue supergiant star
+      - Red supergiant star
+      - Yellow supergiant star
+      - White dwarf
+      - Wolf–Rayet star
+      - Super-AGB star
+      - Population III star
+      - Supernova remnant
+      - Pulsar wind nebula
+      - Neutron star
+      - Pulsar
+      - Magnetar
+      - Stellar black hole
+      - Compact star
+      - Electroweak star
+      - Exotic star
+      - Quark star
+      - Zombie star
+      - Local Bubble
+      - Superbubble
+      - Orion–Eridanus Superbubble
+      - Guest star (astronomy)
+      - History of supernova observation
+      - Timeline of white dwarfs, neutron stars, and supernovae
+      - List of supernova candidates
+      - List of supernovae
+      - List of most massive stars
+      - List of most distant supernovae
+      - List of supernova remnants
+      - Supernovae in fiction
+      - Barnard's Loop
+      - Cassiopeia A
+      - SN 1054
+      - Crab Nebula
+      - IPTF14hls
+      - SN 1000+0216
+      - SN 1572
+      - Kepler's Supernova
+      - SN 1885A
+      - SN 1987A
+      - SN 1994D
+      - SN 185
+      - SN 1006
+      - SN 2003fg
+      - G1.9+0.3
+      - SN 2007bi
+      - SN 2011fe
+      - SN 2014J
+      - SN Refsdal
+      - Vela Supernova Remnant
+      - SN 2006gy
+      - ASASSN-15lh
+      - SN 2016aps
+      - SN 2018cow
+      - SN 2022jli
+      - All Sky Automated Survey for SuperNovae
+      - Calán/Tololo Survey
+      - High-Z Supernova Search Team
+      - Katzman Automatic Imaging Telescope
+      - Monte Agliale Supernovae and Asteroid Survey
+      - Nearby Supernova Factory
+      - Sloan Digital Sky Survey
+      - Supernova/Acceleration Probe
+      - Supernova Cosmology Project
+      - SuperNova Early Warning System
+      - Supernova Legacy Survey
+      - Texas Supernova Search
+      - Template talk:Star
+      - Star
+      - Lists of stars
+      - Star formation
+      - Accretion (astrophysics)
+      - Molecular cloud
+      - Bok globule
+      - Young stellar object
+      - Protostar
+      - Pre-main-sequence star
+      - Herbig Ae/Be star
+      - T Tauri star
+      - Herbig–Haro object
+      - Hayashi track
+      - Henyey track
+      - Stellar evolution
+      - Main sequence
+      - Red-giant branch
+      - Horizontal branch
+      - Red clump
+      - Asymptotic giant branch
+      - Post-AGB star
+      - Super-AGB star
+      - Blue loop
+      - Planetary nebula
+      - Protoplanetary nebula
+      - Wolf-Rayet nebula
+      - PG 1159 star
+      - Dredge-up
+      - OH/IR star
+      - Instability strip
+      - Luminous blue variable
+      - Stellar population
+      - Superluminous supernova
+      - Hypernova
+      - Stellar classification
+      - Early-type star
+      - Late-type star
+      - O-type main-sequence star
+      - B-type main-sequence star
+      - A-type main-sequence star
+      - F-type main-sequence star
+      - G-type main-sequence star
+      - K-type main-sequence star
+      - Red dwarf
+      - Subdwarf
+      - Subdwarf O star
+      - Subdwarf B star
+      - Wolf–Rayet star
+      - OB star
+      - Subgiant
+      - Giant star
+      - Blue giant
+      - Red giant
+      - Yellow giant
+      - Bright giant
+      - Supergiant
+      - Blue supergiant
+      - Red supergiant
+      - Yellow supergiant
+      - Hypergiant
+      - Yellow hypergiant
+      - Carbon star
+      - S-type star
+      - CN star
+      - CH star
+      - White dwarf
+      - Chemically peculiar star
+      - Am star
+      - Ap and Bp stars
+      - CEMP star
+      - Mercury-manganese star
+      - Helium-weak star
+      - Barium star
+      - Lambda Boötis star
+      - Lead star
+      - Technetium star
+      - Be star
+      - Shell star
+      - B(e) star
+      - Helium star
+      - Extreme helium star
+      - Blue straggler
+      - Compact star
+      - Compact star
+      - IRAS 00500+6713
+      - White dwarf
+      - Helium planet
+      - Neutron star
+      - Radio-quiet neutron star
+      - Pulsar
+      - Binary pulsar
+      - X-ray pulsar
+      - Magnetar
+      - Stellar black hole
+      - X-ray binary
+      - X-ray burster
+      - Soft gamma repeater
+      - Hypothetical star
+      - Blue dwarf (red-dwarf stage)
+      - Black dwarf
+      - Exotic star
+      - Boson star
+      - Electroweak star
+      - Strange star
+      - Preon star
+      - Planck star
+      - Dark star (dark matter)
+      - Dark-energy star
+      - Quark star
+      - Q star
+      - Black star (semiclassical gravity)
+      - Hawking star
+      - Quasi-star
+      - Gravastar
+      - Thorne–Żytkow object
+      - Iron star
+      - Blitzar
+      - White hole
+      - Stellar nucleosynthesis
+      - Deuterium fusion
+      - Lithium burning
+      - Proton–proton chain
+      - CNO cycle
+      - Helium flash
+      - Triple-alpha process
+      - Alpha process
+      - Carbon-burning process
+      - Neon-burning process
+      - Oxygen-burning process
+      - Silicon-burning process
+      - S-process
+      - R-process
+      - P-process
+      - Fusor (astronomy)
+      - Nova
+      - Symbiotic nova
+      - Nova remnant
+      - Luminous red nova
+      - Nova
+      - Micronova
+      - Supernova nucleosynthesis
+      - Stellar structure
+      - Stellar core
+      - Convection zone
+      - Microturbulence
+      - Solar-like oscillations
+      - Radiation zone
+      - Stellar atmosphere
+      - Photosphere
+      - Starspot
+      - Chromosphere
+      - Stellar corona
+      - Alfvén surface
+      - Stellar wind
+      - Stellar-wind bubble
+      - Bipolar outflow
+      - Accretion disk
+      - Protoplanetary disk
+      - Proplyd
+      - Asteroseismology
+      - Helioseismology
+      - Circumstellar dust
+      - Cosmic dust
+      - Circumstellar envelope
+      - Eddington luminosity
+      - Kelvin–Helmholtz mechanism
+      - Stellar designations and names
+      - Stellar dynamics
+      - Effective temperature
+      - Luminosity
+      - Stellar kinematics
+      - Stellar magnetic field
+      - Absolute magnitude
+      - Stellar mass
+      - Metallicity
+      - Stellar rotation
+      - Starlight
+      - Variable star
+      - Photometric system
+      - Color index
+      - Hertzsprung–Russell diagram
+      - Color–color diagram
+      - Strömgren sphere
+      - Kraft break
+      - Star system
+      - Binary star
+      - Contact binary
+      - Common envelope
+      - Eclipsing binary
+      - Symbiotic binary
+      - Star system
+      - Star cluster
+      - Open cluster
+      - Globular cluster
+      - Super star cluster
+      - Planetary system
+      - Sun
+      - Solar eclipse
+      - Solar radio emission
+      - Solar System
+      - Sunlight
+      - Pole star
+      - Circumpolar star
+      - Constellation
+      - Asterism (astronomy)
+      - Magnitude (astronomy)
+      - Apparent magnitude
+      - Extinction (astronomy)
+      - Photographic magnitude
+      - Radial velocity
+      - Proper motion
+      - Stellar parallax
+      - Photometric-standard star
+      - Lists of stars
+      - List of proper names of stars
+      - List of Arabic star names
+      - Chinese star names
+      - List of star extremes
+      - List of most massive stars
+      - List of hottest stars
+      - List of coolest stars
+      - List of largest known stars
+      - List of smallest known stars
+      - List of brightest stars
+      - Historical brightest stars
+      - List of most luminous stars
+      - List of nearest stars and brown dwarfs
+      - List of nearest bright stars
+      - List of the most distant astronomical objects
+      - List of stars with resolved images
+      - List of multiplanetary systems
+      - List of brown dwarfs
+      - List of red dwarfs
+      - List of white dwarfs
+      - List of novae in the Milky Way galaxy
+      - List of supernovae
+      - List of supernova candidates
+      - List of supernova remnants
+      - List of planetary nebulae
+      - Timeline of stellar astronomy
+      - Substellar object
+      - Brown dwarf
+      - Brown-dwarf desert
+      - Sub-brown dwarf
+      - Planet
+      - Galactic year
+      - Galaxy
+      - Guest star (astronomy)
+      - Gravity
+      - Intergalactic star
+      - Planet-hosting stars
+      - Tidal disruption event
+      - Template talk:Variable star topics
+      - Variable star
+      - Stellar pulsation
+      - Cepheid variable
+      - Type I Cepheid
+      - Classical Cepheid variable
+      - Delta Scuti variable
+      - Type II Cepheid
+      - BL Herculis variable
+      - W Virginis variable
+      - RV Tauri variable
+      - RR Lyrae variable
+      - Rapidly oscillating Ap star
+      - SX Phoenicis variable
+      - Alpha Cygni variable
+      - Beta Cephei variable
+      - Slowly pulsating B-type star
+      - PV Telescopii variable
+      - Blue large-amplitude pulsator
+      - Long-period variable star
+      - Mira variable
+      - Semiregular variable star
+      - Slow irregular variable
+      - Gamma Doradus variable
+      - Solar-like oscillations
+      - Pulsating white dwarf
+      - Pre-main-sequence star
+      - Pre-main-sequence star
+      - Herbig Ae/Be star
+      - Orion variable
+      - FU Orionis star
+      - T Tauri star
+      - Luminous blue variable
+      - R Coronae Borealis variable
+      - DY Persei variable
+      - Yellow hypergiant
+      - Double periodic variable
+      - FS Canis Majoris variable
+      - RS Canum Venaticorum variable
+      - Flare star
+      - Gamma Cassiopeiae variable
+      - Lambda Eridani variable
+      - Wolf–Rayet star
+      - Cataclysmic variable star
+      - AM Canum Venaticorum star
+      - Dwarf nova
+      - Luminous red nova
+      - Nova
+      - Polar (star)
+      - Intermediate polar
+      - Hypernova
+      - SW Sextantis variable
+      - Symbiotic binary
+      - Symbiotic nova
+      - Symbiotic binary
+      - Rotating ellipsoidal variable
+      - BY Draconis variable
+      - Variable star
+      - Alpha2 Canum Venaticorum variable
+      - Pulsar
+      - SX Arietis variable
+      - Binary star
+      - Algol variable
+      - Beta Lyrae variable
+      - Planetary transit variable
+      - W Ursae Majoris variable
+      - List of variable stars
+      - Template talk:Black holes
+      - Black hole
+      - Outline of black holes
+      - BTZ black hole
+      - Schwarzschild metric
+      - Rotating black hole
+      - Charged black hole
+      - Virtual black hole
+      - Kugelblitz (astrophysics)
+      - Supermassive black hole
+      - Primordial black hole
+      - Direct collapse black hole
+      - Rogue black hole
+      - Malament–Hogarth spacetime
+      - Micro black hole
+      - Extremal black hole
+      - Black hole electron
+      - Hawking star
+      - Stellar black hole
+      - Microquasar
+      - Intermediate-mass black hole
+      - Supermassive black hole
+      - Active galactic nucleus
+      - Quasar
+      - Large quasar group
+      - Blazar
+      - OVV quasar
+      - Stellar evolution
+      - Gravitational collapse
+      - Neutron star
+      - Tolman–Oppenheimer–Volkoff limit
+      - White dwarf
+      - Micronova
+      - Superluminous supernova
+      - Gamma-ray burst
+      - Binary black hole
+      - Quark star
+      - Supermassive star
+      - Quasi-star
+      - Dark star (dark matter)
+      - X-ray binary
+      - Astrophysical jet
+      - Gravitational singularity
+      - Ring singularity
+      - Penrose–Hawking singularity theorems
+      - Event horizon
+      - Photon sphere
+      - Innermost stable circular orbit
+      - Ergosphere
+      - Penrose process
+      - Blandford–Znajek process
+      - Accretion disk
+      - Hawking radiation
+      - Gravitational lens
+      - Gravitational microlensing
+      - Bondi accretion
+      - M–sigma relation
+      - Quasi-periodic oscillation
+      - Black hole thermodynamics
+      - Bekenstein bound
+      - Bousso's holographic bound
+      - Immirzi parameter
+      - Schwarzschild radius
+      - Spaghettification
+      - Black hole complementarity
+      - Black hole information paradox
+      - Cosmic censorship hypothesis
+      - ER = EPR
+      - Binary black hole
+      - Firewall (physics)
+      - Holographic principle
+      - No-hair theorem
+      - Schwarzschild metric
+      - Derivation of the Schwarzschild solution
+      - Kerr metric
+      - Reissner–Nordström metric
+      - Kerr–Newman metric
+      - Hayward metric
+      - Nonsingular black hole models
+      - Black star (semiclassical gravity)
+      - Dark star (Newtonian mechanics)
+      - Dark-energy star
+      - Gravastar
+      - Magnetospheric eternally collapsing object
+      - Planck star
+      - Q star
+      - Fuzzball (string theory)
+      - Geon (physics)
+      - Optical black hole
+      - Sonic black hole
+      - List of black holes
+      - List of most massive black holes
+      - List of nearest known black holes
+      - List of quasars
+      - List of microquasars
+      - Outline of black holes
+      - Black Hole Initiative
+      - Black hole starship
+      - Big Bang
+      - Big Bounce
+      - Compact star
+      - Exotic star
+      - Quark star
+      - Preon star
+      - Gravitational waves
+      - Gamma-ray burst progenitors
+      - Gravity well
+      - Hypercompact stellar system
+      - Membrane paradigm
+      - Naked singularity
+      - Population III star
+      - Supermassive star
+      - Quasi-star
+      - Dark star (dark matter)
+      - Rossi X-ray Timing Explorer
+      - Superluminal motion
+      - Timeline of black hole physics
+      - White hole
+      - Wormhole
+      - Tidal disruption event
+      - Planet Nine
+      - Cygnus X-1
+      - XTE J1650-500
+      - XTE J1118+480
+      - A0620-00
+      - Sagittarius A*
+      - Centaurus A
+      - Phoenix Cluster
+      - PKS 1302-102
+      - OJ 287
+      - TON 618
+      - MS 0735.6+7421
+      - NeVe 1
+      - Hercules A
+      - 3C 273
+      - Q0906+6930
+      - Markarian 501
+      - ULAS J1342+0928
+      - PSO J030947.49+271757.31
+      - AT2018hyz
+      - Swift J1644+57
+      - Template talk:Neutron star
+      - Neutron star
+      - Radio-quiet neutron star
+      - Pulsar
+      - Magnetar
+      - Soft gamma repeater
+      - Anomalous X-ray pulsar
+      - Rotating radio transient
+      - Binary pulsar
+      - X-ray pulsar
+      - X-ray binary
+      - X-ray burster
+      - List of X-ray pulsars
+      - Millisecond pulsar
+      - Be/X-ray binary
+      - Neutron star spin-up
+      - Hulse–Taylor pulsar
+      - Blitzar
+      - Fast radio burst
+      - Bondi accretion
+      - Chandrasekhar limit
+      - Gamma-ray burst
+      - Glitch (astronomy)
+      - Neutron matter
+      - Neutron-star oscillation
+      - Optical pulsar
+      - Pulsar kick
+      - Quasi-periodic oscillation
+      - Relativistic star
+      - Rp-process
+      - Starquake (astrophysics)
+      - Pulsar
+      - Tolman–Oppenheimer–Volkoff limit
+      - Urca process
+      - Gamma-ray burst progenitors
+      - Asteroseismology
+      - Compact star
+      - Quark star
+      - Exotic star
+      - Supernova remnant
+      - Hypernova
+      - Kilonova
+      - Microquasar
+      - Neutron star merger
+      - Quark-nova
+      - White dwarf
+      - Stellar black hole
+      - Radio star
+      - Pulsar planet
+      - Pulsar wind nebula
+      - Thorne–Żytkow object
+      - QCD matter
+      - PSR B1919+21
+      - Centaurus X-3
+      - Timeline of white dwarfs, neutron stars, and supernovae
+      - Rossi X-ray Timing Explorer
+      - Fermi Gamma-ray Space Telescope
+      - Compton Gamma Ray Observatory
+      - Chandra X-ray Observatory
+      - X-ray pulsar-based navigation
+      - Tempo (astronomy)
+      - Astropulse
+      - The Magnificent Seven (neutron stars)
+      - Template talk:Stellar core collapse
+      - Stellar core
+      - Gravitational collapse
+      - Star
+      - Star formation
+      - Stellar evolution
+      - Stellar structure
+      - Stellar core
+      - Metallicity
+      - Stellar physics
+      - Astrophysical plasma
+      - Supergiant star
+      - Cataclysmic variable star
+      - Binary star
+      - X-ray binary
+      - Super soft X-ray source
+      - Nuclear fusion
+      - Nova
+      - Stellar nucleosynthesis
+      - R-process
+      - Rp-process
+      - Supernova nucleosynthesis
+      - Accretion (astrophysics)
+      - Bondi accretion
+      - Electron capture
+      - Carbon detonation
+      - Carbon deflagration
+      - Gamma-ray burst
+      - Helium flash
+      - Orbital decay
+      - Gravitational collapse
+      - Chandrasekhar limit
+      - Tolman–Oppenheimer–Volkoff limit
+      - Type Ia supernova
+      - Type Ib and Ic supernovae
+      - Type II supernova
+      - Pair-instability supernova
+      - Hypernova
+      - Quark-nova
+      - Nebula
+      - Supernova remnant
+      - Compact star
+      - Neutron star
+      - Pulsar
+      - Quasar
+      - Magnetar
+      - Radio-quiet neutron star
+      - White dwarf
+      - Stellar black hole
+      - Collapsar
+      - Shell collapsar
+      - Exotic star
+      - Quark star
+      - Electroweak star
+      - Timeline of white dwarfs, neutron stars, and supernovae
+      - Elementary particle
+      - Proton
+      - Neutron
+      - Electron
+      - Neutrino
+      - Fundamental interaction
+      - Strong interaction
+      - Weak interaction
+      - Gravitation
+      - Pair production
+      - Inverse beta decay
+      - Degeneracy pressure
+      - Electron degeneracy pressure
+      - Pauli exclusion principle
+      - Quantum mechanics
+      - Quantum mechanics
+      - Introduction to quantum mechanics
+      - Basic concepts of quantum mechanics
+      - Quantum electrodynamics
+      - Quantum hydrodynamics
+      - Quantum chromodynamics
+      - Lattice QCD
+      - Color confinement
+      - Deconfinement
+      - Degenerate matter
+      - Neutronium
+      - QCD matter
+      - Quark matter
+      - Quark–gluon plasma
+      - Preon matter
+      - Strangelet
+      - Strange matter
+      - Astronomy
+      - Astrophysics
+      - Nuclear astrophysics
+      - Physical cosmology
+      - Shock wave
+      - Template talk:Gravitational waves
+      - Gravitational-wave astronomy
+      - Gravitational wave
+      - Gravitational-wave observatory
+      - Gravitational-wave observatory
+      - Gravitational-wave observatory
+      - AURIGA
+      - MiniGrail
+      - Mario Schenberg (Gravitational Wave Detector)
+      - Allegro gravitational-wave detector
+      - NIOBE
+      - Weber bar
+      - Torsion-bar antenna
+      - MiniGrail
+      - MiniGrail
+      - Mario Schenberg (Gravitational Wave Detector)
+      - Mario Schenberg (Gravitational Wave Detector)
+      - Ground-based interferometric gravitational-wave search
+      - AIGO
+      - ACIGA
+      - CLIO
+      - Holometer
+      - GEO600
+      - LIGO
+      - LIGO Scientific Collaboration
+      - KAGRA
+      - Virgo interferometer
+      - European Gravitational Observatory
+      - TAMA 300
+      - TAMA 300
+      - LIGO
+      - Indian Initiative in Gravitational-wave Observations
+      - Cosmic Explorer (gravitational wave observatory)
+      - Einstein Telescope
+      - LIGO-Australia
+      - Laser Interferometer Space Antenna
+      - Big Bang Observer
+      - Deci-hertz Interferometer Gravitational wave Observatory
+      - TianQin
+      - Pulsar timing array
+      - European Pulsar Timing Array
+      - International Pulsar Timing Array
+      - North American Nanohertz Observatory for Gravitational Waves
+      - Parkes Observatory
+      - Einstein@Home
+      - PyCBC
+      - Zooniverse
+      - List of gravitational wave observations
+      - First observation of gravitational waves
+      - GW151226
+      - GW170104
+      - GW170608
+      - GW170814
+      - GW170817
+      - Neutron star merger
+      - GW190412
+      - GW190521
+      - GW190814
+      - Interferometric gravitational-wave detector
+      - Atom interferometer
+      - Cosmic microwave background
+      - Cosmic microwave background
+      - Pulsar timing array
+      - Binary pulsar
+      - General relativity
+      - Tests of general relativity
+      - Alternatives to general relativity
+      - Graviton
+      - Gravitational wave
+      - Spin-flip
+      - Redshift
+      - Speed of light
+      - Chirp mass
+      - Energy
+      - Gravitational wave background
+      - Inflation (cosmology)
+      - Quantum fluctuation
+      - Phase transition
+      - Supermassive black hole
+      - Stellar black hole
+      - Neutron star
+      - Extreme mass ratio inspiral
+      - Cosmic string
+      - Template talk:Astronomy in medieval Islam
+      - Astronomy in the medieval Islamic world
+      - List of Muslim astronomers
+      - Ahmad Nahavandi
+      - Al-Fadl ibn Naubakht
+      - Muḥammad ibn Ibrāhīm al-Fazārī
+      - Ibrāhīm al-Fazārī
+      - Mashallah ibn Athari
+      - Yaʿqūb ibn Ṭāriq
+      - Abu Ali al-Khayyat
+      - Abu Ma'shar al-Balkhi
+      - Abu Said Gorgani
+      - Al-Farghani
+      - Al-Kindi
+      - Al-Mahani
+      - Abu Hanifa Dinawari
+      - Al-Ḥajjāj ibn Yūsuf ibn Maṭar
+      - Habash al-Hasib al-Marwazi
+      - Ali ibn Isa al-Asturlabi
+      - Banū Mūsā brothers
+      - Abu al-Abbas Iranshahri
+      - Khalid ibn Abd al‐Malik al‐Marwarrudhi
+      - Al-Khwarizmi
+      - Sahl ibn Bishr
+      - Thābit ibn Qurra
+      - Yahya ibn Abi Mansur
+      - Abd al-Rahman al-Sufi
+      - Ibn al-Adami
+      - Al-Adami
+      - Abu-Mahmud Khojandi
+      - Abu Ja'far al-Khazin
+      - Abu Sahl al-Quhi
+      - Abu al-Wafa' Buzjani
+      - Ahmad ibn Yusuf
+      - Al-Battani
+      - Al-Qabisi
+      - Ibn al-A'lam
+      - Al-Nayrizi
+      - Al-Saghani
+      - Aṣ-Ṣaidanānī
+      - Ibn Yunus
+      - Ibrahim ibn Sinan
+      - Ma Yize
+      - Al-Sijzi
+      - Al-ʻIjliyyah
+      - Nastulus
+      - Abolfadl Harawi
+      - Haseb-i Tabari
+      - Maslama al-Majriti
+      - Abu al-Hasan al-Ahwazi
+      - Abu Nasr Mansur
+      - Al-Biruni
+      - Ali ibn Ridwan
+      - Abū Isḥāq Ibrāhīm al-Zarqālī
+      - Ibn al-Samh
+      - Ibn al-Haytham
+      - Avicenna
+      - Ibn al-Saffar
+      - Kushyar Gilani
+      - Said al-Andalusi
+      - Ibrahim ibn Said al-Sahli
+      - Ibn Mu'adh al-Jayyani
+      - Al-Isfizari
+      - Ali ibn Khalaf
+      - Nur ad-Din al-Bitruji
+      - Avempace
+      - Ibn Tufail
+      - Al-Kharaqī
+      - Al-Khazini
+      - Al-Samawal al-Maghribi
+      - Abu al-Salt
+      - Averroes
+      - Ibn al-Kammad
+      - Jabir ibn Aflah
+      - Omar Khayyam
+      - Sharaf al-Din al-Tusi
+      - Ibn al-Banna' al-Marrakushi
+      - Ibn al‐Ha'im al‐Ishbili
+      - Jamal ad-Din Bukhari
+      - Alam al-Din al-Hanafi
+      - Najm al‐Din al‐Misri
+      - Muhyi al-Din al-Maghribi
+      - Nasir al-Din al-Tusi
+      - Qutb al-Din al-Shirazi
+      - Shams al-Din al-Samarqandi
+      - Zakariya al-Qazwini
+      - Mu'ayyad al-Din al-Urdi
+      - Athir al-Din al-Abhari
+      - Muhammad ibn Abi Bakr al‐Farisi
+      - Abu Ali al-Hasan al-Marrakushi
+      - Ibn Ishaq al-Tunisi
+      - Ibn al‐Raqqam
+      - Al-Ashraf Umar II
+      - Fakhr al-Din al-Akhlati
+      - Ibn al-Shatir
+      - Shams al-Din Abu Abd Allah al-Khalili
+      - Ibn Shuayb
+      - Abu Muqri Mohammed al-Battiwi
+      - Abū al‐ʿUqūl
+      - Al-Wabkanawi
+      - Nizam al-Din al-Nisapuri
+      - Abd al-Rahman al-Jadiri
+      - Sadr al-Shari'a al-Asghar
+      - Fathullah Shirazi
+      - Ali Qushji
+      - Abd al‐Wajid
+      - Jamshid al-Kashi
+      - Qāḍī Zāda al-Rūmī
+      - Ulugh Beg
+      - Sibt al-Maridini
+      - Ibn al-Majdi
+      - 'Abd al-'Aziz al-Wafa'i
+      - Abu Ishaq al-Kubunani
+      - 'Abd al-'Aziz al-Wafa'i
+      - Al-Birjandi
+      - Shams al-Din al-Khafri
+      - Baha' al-din al-'Amili
+      - Piri Reis
+      - Taqi ad-Din Muhammad ibn Ma'ruf
+      - Yang Guangxian
+      - Ehmedê Xanî
+      - Al Achsasi al Mouakket
+      - Muhammad al-Rudani
+      - List of Arabic star names
+      - Islamic calendar
+      - Aja'ib al-Makhluqat
+      - Tabula Rogeriana
+      - The Book of Healing
+      - The Remaining Signs of Past Centuries
+      - Zij
+      - Alfonsine tables
+      - Huihui Lifa
+      - Book of Fixed Stars
+      - Toledan Tables
+      - Zij-i Ilkhani
+      - Zij-i Sultani
+      - Sullam al-sama'
+      - Astronomy in the medieval Islamic world
+      - Alidade
+      - Analog computer
+      - Aperture
+      - Armillary sphere
+      - Astrolabe
+      - Astronomical clock
+      - Armillary sphere
+      - Compass
+      - Compass rose
+      - Dioptra
+      - Equatorial ring
+      - Equatorium
+      - Globe
+      - Graph paper
+      - Magnifying glass
+      - Mural instrument
+      - Mariner's astrolabe
+      - Nebula
+      - Octant (instrument)
+      - Planisphere
+      - Quadrant (instrument)
+      - Sextant (astronomy)
+      - Shadow square
+      - Sundial
+      - Schema for horizontal dials
+      - Triquetrum (astronomy)
+      - Almucantar
+      - Apsis
+      - Astrology in the medieval Islamic world
+      - Astrophysics
+      - Axial tilt
+      - Azimuth
+      - Celestial mechanics
+      - Celestial spheres
+      - Circular orbit
+      - Deferent and epicycle
+      - Earth's rotation
+      - Orbital eccentricity
+      - Ecliptic
+      - Elliptic orbit
+      - Equant
+      - Galaxy
+      - Geocentric model
+      - Gravitational energy
+      - Gravity
+      - Heliocentrism
+      - Inertia
+      - Cosmology in medieval Islam
+      - Moonlight
+      - Multiverse
+      - Muwaqqit
+      - Axial tilt
+      - Parallax
+      - Precession
+      - Qibla
+      - Salah times
+      - Specific gravity
+      - Spherical Earth
+      - Sublunary sphere
+      - Sunlight
+      - Temporal finitism
+      - Trepidation
+      - Triangulation
+      - Tusi couple
+      - Universe
+      - House of Knowledge
+      - House of Wisdom
+      - Astronomy in the medieval Islamic world
+      - Constantinople observatory of Taqi ad-Din
+      - Maragheh observatory
+      - Ulugh Beg Observatory
+      - Babylonian astronomy
+      - Egyptian astronomy
+      - Ancient Greek astronomy
+      - Indian astronomy
+      - Byzantine science
+      - Chinese astronomy
+      - European science in the Middle Ages
+      - Indian astronomy
+
