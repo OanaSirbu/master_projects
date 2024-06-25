@@ -4,9 +4,9 @@ This paper contains solutions and explanations for various exercises related to 
 
 ## Exercise 1
 
-** a) Finite hypothesis class with specified VC dimension **
+**a) Finite hypothesis class with specified VC dimension**
 
-** b) Infinite hypothesis class with specified VC dimension **
+**b) Infinite hypothesis class with specified VC dimension**
 
 ## Exercise 2
 
