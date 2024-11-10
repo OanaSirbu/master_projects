@@ -23,5 +23,3 @@ To run this project, ensure you have the following libraries installed with the 
 All solutions are implemented within a single Python file. After saving the project and installing all the dependencies listed above, make sure to update the paths in the code (located at the beginning of the file - lines 8 to 37), as indicated by the comments. There, you can specify the input files and also configure the location where the predicted results files will be saved. Save the modified python file. 
 
 Then, simply run the python file. It will automatically perform all the operations. 
-
-

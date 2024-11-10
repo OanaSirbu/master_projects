@@ -15,25 +15,25 @@ WORK_DIR = os.path.join(MAIN_DIR, 'work')
 print(WORK_DIR)
 
 # for task 1, indicate the paths where the images are located and where the solutions will be saved
-task1_images_dir = os.path.join(MAIN_DIR, 'train', 'Task1')
-task1_sol_dir = os.path.join(WORK_DIR, 'solutions', 'Task1')
+task1_images_dir = os.path.join(MAIN_DIR, 'test', 'Task1')
+task1_sol_dir = os.path.join(WORK_DIR, 'exam_solutions', 'Task1')
 os.makedirs(task1_sol_dir, exist_ok=True)
 
 # same thing for Task 2, except we also need to store the final frames of the videos as images
-video_dir = os.path.join(MAIN_DIR, 'train', 'Task2')
+video_dir = os.path.join(MAIN_DIR, 'test', 'Task2')
 task2_data_dir = os.path.join(WORK_DIR, 'data', 'task2_images')
 os.makedirs(task2_data_dir, exist_ok=True)
-task2_sol_dir = os.path.join(WORK_DIR, 'solutions', 'Task2')
+task2_sol_dir = os.path.join(WORK_DIR, 'exam_solutions', 'Task2')
 os.makedirs(task2_sol_dir, exist_ok=True)
 
 # also adjust the paths for Task 3 data and solutions
-task3_videos_dir = os.path.join(MAIN_DIR, 'train', 'Task3')
-task3_sol_dir = os.path.join(WORK_DIR, 'solutions', 'Task3')
+task3_videos_dir = os.path.join(MAIN_DIR, 'test', 'Task3')
+task3_sol_dir = os.path.join(WORK_DIR, 'exam_solutions', 'Task3')
 os.makedirs(task3_sol_dir, exist_ok=True)
 
 # same changes for Task 4, if applicable
-task4_videos_dir = os.path.join(MAIN_DIR, 'train', 'Task4')
-task4_sol_dir = os.path.join(WORK_DIR, 'solutions', 'Task4')
+task4_videos_dir = os.path.join(MAIN_DIR, 'test', 'Task4')
+task4_sol_dir = os.path.join(WORK_DIR, 'exam_solutions', 'Task4')
 os.makedirs(task4_sol_dir, exist_ok=True)
 
 
